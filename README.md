@@ -3,7 +3,7 @@
 An ***unofficial*** repository of templates for transcribing reddit posts. This allows us to transcribe faster and ~~get gammas faster~~ help those with difficulty seeing, and those on mobile or with limited data.
 
 ## Pull requests are very much appreciated :D
-If you're struggling to contribute contact **VoidCrafted#0000** on Discord :+1:
+If you're struggling to contribute contact **VoidCrafted#0001** on Discord :+1:
 
 ---
 
