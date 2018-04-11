@@ -6,6 +6,7 @@
 
 [*Patrick is a large starfish with green pants that have flowers, and no shirt. The comic is set in the ocean, and the background and floor are blue. Man Ray is a red masculine villain with a blue mask that covers their shoulders and they wear blue gloves and socks. The comic zooms in to the person who is talking.*]
 
+
 **1**
 
 [*Man Ray holding up an ID that reads PATricK StaR*]
