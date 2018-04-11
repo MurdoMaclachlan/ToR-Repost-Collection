@@ -2,17 +2,17 @@
 
 ---
 
-[*Image of two red buttons on white slabs, all on a light blue panel, and the background is a darker blue. The buttons have the text below.*]
+[*Image of two red buttons on white slabs; both on a light blue panel, and the background is a darker blue. The buttons have the text below.*]
 
-unhealthy obsess over not transitioning earlier
+{___replaceme___}
 
 <or>
 
-focus on transitioning
+{___replaceme___}
 
 ---
 
-[*Image of a masculine person with light skin and red hair. They have sweat streaming down their face, and they are wearing a red shirt, and have prominent muscles. They have white gloves on and is using a white napkin to wipe off the sweat.*]
+[*Image of a masculine person with light skin and red hair. They have sweat streaming down their face, and they are wearing a red shirt, and have prominent muscles. They have white gloves on and are using a white napkin to wipe the sweat off of their face.*]
 
 ---
 
