@@ -2,6 +2,8 @@
 
 ---
 
+[*Image is a 5 panel meme of* ***Paul Teutal Sr.*** *and* ***Paul Teutal Jr*** *from reality TV show* ***American Chopper***.] 
+
 [*Paul Teutul Jr, who is clean shaven and wearing a cap, shouts at Paul Teutul Sr, an ageing man with a grey moustache and grey hair, sits in his chair*]
 
 ---
