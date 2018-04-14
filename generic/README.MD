@@ -26,4 +26,7 @@
  ([preview](gru_flipchart/gru_flipchart.md)) 
  ([image](gru_flipchart/gru_flipchart.jpg))
 
- 
+**Dsitracted Boyfriend** - A meme taken where there is a man looking at a random person in the street instead of his girlfriend
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/distracted_boyfriend/distracted_boyfriend.md)) 
+ ([preview](distracted_boyfriend/distracted_boyfriend.md)) 
+ ([image](distracted_boyfriend/distracted_boyfriend.png))
