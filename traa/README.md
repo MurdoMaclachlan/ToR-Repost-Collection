@@ -33,8 +33,11 @@
 
 **Mascots** - An image with a person over a gradient with a margin..
  (source:
-  [enby](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/mascots/enby.md))
+  [enby](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/mascots/enby.md),
+  [tomboy](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/mascots/tomboy.md))
  (preview:
-  [enby](mascots/enby.md)) 
+  [enby](mascots/enby.md),
+  [tomboy](mascots/tomboy.md)) 
  (image:
- [enby](mascots/enby.png))
+ [enby](mascots/enby.png),
+ [tomboy](mascots/tomboy.jpg))
