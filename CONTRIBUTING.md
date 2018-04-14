@@ -1,5 +1,7 @@
 1. Name your files like_this, not likeThis.
 
-2. Include the header and footer for all templates.
+2. Placeholders are `{{REPLACE ME}}`
 
-3. Don't be rude.
+3. Include the header and footer for all templates.
+
+4. Don't be rude.
