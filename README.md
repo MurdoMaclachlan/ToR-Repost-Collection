@@ -18,7 +18,7 @@ If you're struggling to contribute contact **VoidCrafted#0001** on Discord :+1:
  ([preview](/))
  ([image](/))
 
-#Generic Reposts
+##Generic Reposts
 
 [Generic](generic/README.md)
 
