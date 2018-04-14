@@ -3,5 +3,3 @@
 2. Placeholders are `{{REPLACE ME}}`
 
 3. Include the header and footer for all templates.
-
-4. Don't be rude.
