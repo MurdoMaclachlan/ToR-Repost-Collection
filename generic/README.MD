@@ -20,7 +20,6 @@
  ([preview](change_my_mind/change_my_mind.md)) 
  ([image](change_my_mind/change_my_mind.jpeg))
 
-**Gru Flipchart** - A meme taken from the movie series "Despicable Me". Gru presents from a flipchart that has been modified by his children. The first 2 slides normally contain a normal process, like "I start a project", "I copy the example code". The last 2 whiteboards generally contain the same text, and are an unexpected side-effect, such as "It fails to compile" 
 **Dsitracted Boyfriend** - A meme taken where there is a man looking at a random person in the street instead of his girlfriend
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/distracted_boyfriend/distracted_boyfriend.md)) 
  ([preview](distracted_boyfriend/distracted_boyfriend.md)) 
