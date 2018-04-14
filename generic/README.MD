@@ -26,4 +26,9 @@
  ([preview](gru_flipchart/gru_flipchart.md)) 
  ([image](gru_flipchart/gru_flipchart.jpg))
 
+**Try not to Cry** - A three panel comic, ending with "try not to cry 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/try_not_to_cry/try_not_to_cry.md)) 
+ ([preview](try_not_to_cry/try_not_to_cry.md)) 
+ ([image](try_not_to_cry/try_not_to_cry.jpg))
+
  
