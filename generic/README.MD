@@ -6,12 +6,12 @@
  ([image](expanding_brain/expanding_brain.jpeg))
 
 **Drakeposting** - A 2-column 2-row image. In the left two squares are 'Drake', a musician, in different states of how happy he is. 
- ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/drake/drake_no_table.md)) 
-
- [image](drake/drake.jpg))
+([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/drake/drake_table_detailed.md)) 
+ ([preview](drake/drake.md)) 
+ ([image](drake/drake.jpg))
 
 **Change My Mind** - A parody image of the youtube series "Change My Mind" by [Steven Crowder](https://www.youtube.com/channel/UCIveFvW-ARp_B_RckhweNJw). It usually has a socially controvertial statement on the top half of the table and the words "Change my mind" on the bottom. 
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/changemymind/change_my_mind.md)) 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/change_my_mind/change_my_mind.md)) 
  ([preview](change_my_mind/change_my_mind.md)) 
  ([image](change_my_mind/change_my_mind.jpeg))
 
