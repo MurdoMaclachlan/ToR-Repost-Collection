@@ -2,7 +2,7 @@
 
 ---
 
-[*Image of two red buttons on white slabs; both on a light blue panel, and the background is a darker blue. The buttons have the text below.*]
+[*Meme of where a superhero has to choose between two conflicting choices by pressing a button: Image of two red buttons on white slabs; both on a light blue panel, and the background is a darker blue. The buttons have the text below. There is a white gloved hand that is hovering in middle of both buttons*]
 
 {{REPLACE ME}}
 
@@ -12,7 +12,7 @@
 
 ---
 
-[*Image of a masculine person with light skin and red hair. They have sweat streaming down their face, and they are wearing a red shirt, and have prominent muscles. They have white gloves on and are using a white napkin to wipe the sweat off of their face.*]
+[*Image of a masculine person with light skin and red hair. They have sweat streaming down their face, and they are wearing a red shirt, and have prominent muscles. They have white gloves on and are using a white napkin to wipe the sweat off of their face. This all compounds to make it evident that the superhero is distraught at having to make the decision.*]
 
 ---
 
