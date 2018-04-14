@@ -13,13 +13,6 @@ If you're struggling to contribute contact **VoidCrafted#0001** on Discord :+1:
 
 # Directory
 
-> Structure of each listing:  
-> **Meme Name** - Brief Description ([source](/))
- ([preview](/))
- ([image](/))
- 
-## Generic Reposts
-
 [Generic](generic/README.MD)
 
 [traaaaaaannnnnnnnnns](traa/README.md)

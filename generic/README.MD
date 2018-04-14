@@ -1,5 +1,11 @@
 ## Generic Reposts
 
+> Structure of each listing:  
+> **Meme Name** - Brief Description ([source](/))
+ ([preview](/))
+ ([image](/))
+
+
 **Expanding Brain** - A multi levelled 2-column n-row image with different sizes of brains in one column and concepts getting more and more ridiculous the larger the brain gets in the right hand column 
  ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/expanding_brain/expanding_brain.md)) 
  ([preview](expanding_brain/expanding_brain.md)) 
@@ -19,3 +25,5 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/gru_flipchart/gru_flipchart.md)) 
  ([preview](gru_flipchart/gru_flipchart.md)) 
  ([image](gru_flipchart/gru_flipchart.jpg))
+
+ 

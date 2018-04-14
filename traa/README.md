@@ -1,5 +1,10 @@
 ## Generic Reposts
 
+> Structure of each listing:  
+> **Meme Name** - Brief Description ([source](/))
+ ([preview](/))
+ ([image](/))
+
 **Closet Rustling** - A meme of a red closet, under wich is the text ***closet rustling***
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/closet_rustling/closet_rustling.md)) 
  ([preview](closet_rustling/closet_rustling.md)) 
