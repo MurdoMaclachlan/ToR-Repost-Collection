@@ -4,11 +4,11 @@
 
 [*Image of two red buttons on white slabs; both on a light blue panel, and the background is a darker blue. The buttons have the text below.*]
 
-{___replaceme___}
+{{REPLACE ME}}
 
 <or>
 
-{___replaceme___}
+{{REPLACE ME}}
 
 ---
 

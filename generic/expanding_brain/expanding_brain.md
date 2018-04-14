@@ -4,25 +4,25 @@
 
 [*Level 1: "Small" Brain*]
 
-{___replaceme___}
+{{REPLACE ME}}
 
 ---
 
 [*Level 2: "Normal" Brain, some glowing areas*]
 
-{___replaceme___}
+{{REPLACE ME}}
 
 ---
 
 [*Level 3: "Expanding" Brain, completely glowing*]
 
-{___replaceme___}
+{{REPLACE ME}}
 
 ---
 
 [*Level 4: "Maximum Expansion" Brain, completely glowing, shooting "glowing brainwaves" out of skull*]
 
-{___replaceme___}
+{{REPLACE ME}}
 
 ---
 
