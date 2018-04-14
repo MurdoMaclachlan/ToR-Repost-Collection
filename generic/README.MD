@@ -46,17 +46,3 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/blue_button_rush/blue_button_rush.md)) 
  ([preview](blue_button_rush/blue_button_rush.md)) 
  ([image](blue_button_rush/blue_button_rush.jpg))
-**Patrick not my Wallet**: A meme in which Patrick from Spongebob agrees with some statements and then disagrees with the final one.
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/patrick_not_my_wallet/patrick_not_my_wallet.md)) 
- ([preview](patrick_not_my_wallet/patrick_not_my_wallet.md)) 
- ([image](patrick_not_my_wallet/patrick_not_my_wallet.jpg))
-
-**Teutal Argument**: A comic in which Paul Jr fights with Sr. This involves a chair being thrown.
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/teutul_argument/teutul_argument.md)) 
- ([preview](teutul_argument/teutul_argument.md)) 
- ([image](teutul_argument/teutul_argument.jpg))
-
-**Why are you like This**: An image in which a naked man looks at himself and asks "why are you like this?"
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/why_are_you_like_this/why_are_you_like_this.md)) 
- ([preview](why_are_you_like_this/why_are_you_like_this.md)) 
- ([image](why_are_you_like_this/why_are_you_like_this.jpg))
