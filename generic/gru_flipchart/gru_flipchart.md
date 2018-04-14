@@ -2,7 +2,7 @@
 
 ---
 
-[*Gru, the long-nosed villain from Despicable Me, presents to the camera with passion, pointing into the air. Behind him is a flipchart*]
+[*Gru, the long-nosed villain from Despicable Me, presents to the camera with passion, pointing into the air. Behind him is a flipchart. For all of these, the text is what the flipboars says.*]
 
 ## {{REPLACE ME}}
 
@@ -17,6 +17,6 @@
 ## {{REPLACE ME}}
 
 ---
-[*Gru looks back to the flipchart in a doubletake, looking confused and exasperated*]
+[*Gru looks back to the flipchart in a double take, looking confused and exasperated*]
 
 ## {{REPLACE ME}}
