@@ -51,3 +51,8 @@
  ([preview](patrick_not_my_wallet/patrick_not_my_wallet.md)) 
  ([image](patrick_not_my_wallet/patrick_not_my_wallet.jpg))
 
+**Teutal Argument**: A comic in which Paul Jr fights with Sr. This involves a chair being thrown.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/teutul_argument/teutul_argument.md)) 
+ ([preview](teutul_argument/teutul_argument.md)) 
+ ([image](teutul_argument/teutul_argument.jpg))
+
