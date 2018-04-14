@@ -18,16 +18,19 @@
 **Gay sounds** - A meme of Ferris from Re:Zero, under which is the text "gay sounds", with various adjectives before this.
  (source:
   [distressed](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/distressed.md),
+  [sad](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/sad.md),
   [happy](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/happy.md),
   [very happy](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/very_happy.md),
   [generic](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/generic.md)) 
  (preview: 
   [distressed](gay_sounds/distressed.md),
+  [sad](gay_sounds/sad.md),
   [happy](gay_sounds/happy.md),
   [very happy](gay_sounds/very_happy.md),
   [generic](gay_sounds/generic.md)) 
  ([image]: 
   [distressed](gay_sounds/distressed.jpg),
+  [sad](gay_sounds/sad.jpg),
   [happy](gay_sounds/happy.png),
   [very happy](gay_sounds/very_happy.md))
 
