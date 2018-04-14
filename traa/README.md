@@ -30,3 +30,11 @@
   [distressed](gay_sounds/distressed.jpg),
   [happy](gay_sounds/happy.png),
   [very happy](gay_sounds/very_happy.md))
+
+**Mascots** - An image with a person over a gradient with a margin..
+ (source:
+  [enby](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/mascots/enby.md))
+ (preview:
+  [enby](mascots/enby.md)) 
+ (image:
+ [enby](mascots/enby.png))
