@@ -46,3 +46,8 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/blue_button_rush/blue_button_rush.md)) 
  ([preview](blue_button_rush/blue_button_rush.md)) 
  ([image](blue_button_rush/blue_button_rush.jpg))
+
+**Homer retreating in to a bush** - A meme in which Homer from the Simpsons retreats in to a green bush.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/homer_retreating/homer_retreating.md)) 
+ ([preview](homer_retreating/homer_retreating.md)) 
+ ([image](homer_retreating/homer_retreating.mp4))
