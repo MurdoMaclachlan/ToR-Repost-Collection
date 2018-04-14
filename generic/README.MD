@@ -40,3 +40,9 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/im_in_danger/im_in_danger.md)) 
  ([preview](im_in_danger/im_in_danger.md)) 
  ([image](im_in_danger/im_in_danger.jpg))
+
+
+**Blue Button Rush** - A meme in which Ralph from The Simpsons is sitting in the back of a bus saying I'm in danger 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/blue_button_rush/blue_button_rush.md)) 
+ ([preview](blue_button_rush/blue_button_rush.md)) 
+ ([image](blue_button_rush/blue_button_rush.jpg))
