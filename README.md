@@ -20,6 +20,6 @@ If you're struggling to contribute contact **VoidCrafted#0001** on Discord :+1:
 
 ##Generic Reposts
 
-[Generic](generic/README.md)
+[Generic](generic/README.MD)
 
 [traaaaaaannnnnnnnnns](traa/README.md)
