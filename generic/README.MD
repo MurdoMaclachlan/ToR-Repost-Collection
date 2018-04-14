@@ -16,7 +16,7 @@
  ([preview](drake/drake.md)) 
  ([image](drake/drake.jpg))
 
-**Change My Mind** - A parody image of the youtube series "Change My Mind" by [Steven Crowder](https://www.youtube.com/channel/UCIveFvW-ARp_B_RckhweNJw). It usually has a socially controvertial statement on the top half of the table and the words "Change my mind" on the bottom. 
+**Change my Mind** - A parody image of the youtube series "Change My Mind" by [Steven Crowder](https://www.youtube.com/channel/UCIveFvW-ARp_B_RckhweNJw). It usually has a socially controvertial statement on the top half of the table and the words "Change my mind" on the bottom. 
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/change_my_mind/change_my_mind.md)) 
  ([preview](change_my_mind/change_my_mind.md)) 
  ([image](change_my_mind/change_my_mind.jpeg))
@@ -30,3 +30,8 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/distracted_boyfriend/distracted_boyfriend.md)) 
  ([preview](distracted_boyfriend/distracted_boyfriend.md)) 
  ([image](distracted_boyfriend/distracted_boyfriend.png))
+
+**Try not to Cry** - A three panel comic, ending with "try not to cry 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/try_not_to_cry/try_not_to_cry.md)) 
+ ([preview](try_not_to_cry/try_not_to_cry.md)) 
+ ([image](try_not_to_cry/try_not_to_cry.jpg))
