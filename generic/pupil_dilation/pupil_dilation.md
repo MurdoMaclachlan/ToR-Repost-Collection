@@ -5,7 +5,7 @@
 
 Text | Image
 ----|-----
-{{REPLACE ME}} | Pupil  of a green coloured eye, with light skin around it, somewhat dilated
+The pupil of your eye can expand as much as 55% while looking at something you love | Pupil  of a green coloured eye, with light skin around it, somewhat dilated
 {{REPLACE ME}} | The same pupil, but it is tiny. 
 
 
