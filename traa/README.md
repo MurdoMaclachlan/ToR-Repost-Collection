@@ -32,6 +32,11 @@
   [nervous](gay_sounds/nervous.jpg),
   [very happy](gay_sounds/very_happy.md))
 
+**Guess I'll Die variant** -  A meme of a feminine person saying Guess I'll <Text here.>
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/guess_ill/guess_ill.md)) 
+ ([preview](guess_ill/guess_ill.md)) 
+ ([image](guess_ill/guess_ill.jpg))
+
 **Mascots** - An image with a person over a gradient with a margin..
  (source:
   [enby](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/mascots/enby.md),
@@ -43,7 +48,7 @@
  [enby](mascots/enby.png),
  [tomboy](mascots/tomboy.jpg))
 
-**This is fine** - A comic where the main character (feminine, compared to standaard variant) is surrounded by fire, yet says "this is fine".
+**This is fine** - A comic where the main character (feminine, compared to standaard variant) is surrounded by fair, yet says "this is fine".
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/fire_this_is_fine/fire_this_is_fine.md)) 
  ([preview](fire_this_is_fine/fire_this_is_fine.md)) 
  ([image](fire_this_is_fine/fire_this_is_fine.jpg))
