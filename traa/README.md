@@ -45,8 +45,13 @@
   [enby](mascots/enby.md),
   [tomboy](mascots/tomboy.md)) 
  (image:
- [enby](mascots/enby.png),
- [tomboy](mascots/tomboy.jpg))
+  [enby](mascots/enby.png),
+  [tomboy](mascots/tomboy.jpg))
+
+**Maybe I'll just die.** - Bedroom with the text "Maybe I'll just die.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/maybe_just_die/maybe_just_die.md)) 
+ ([preview](maybe_just_die/maybe_just_die.md)) 
+ ([image](maybe_just_die/maybe_just_die.jpg))
 
 **This is fine** - A comic where the main character (feminine, compared to standaard variant) is surrounded by fair, yet says "this is fine".
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/fire_this_is_fine/fire_this_is_fine.md)) 
