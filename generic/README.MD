@@ -40,17 +40,6 @@
  ([preview](gru_flipchart/gru_flipchart.md)) 
  ([image](gru_flipchart/gru_flipchart.jpg))
 
-<<<<<<< HEAD
-**Blue Button Rush** - A meme in which Ralph from The Simpsons is sitting in the back of a bus saying I'm in danger 
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/blue_button_rush/blue_button_rush.md)) 
- ([preview](blue_button_rush/blue_button_rush.md)) 
- ([image](blue_button_rush/blue_button_rush.jpg))
-
-**Homer retreating in to a bush** - A meme in which Homer from the Simpsons retreats in to a green bush.
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/homer_retreating/homer_retreating.md)) 
- ([preview](homer_retreating/homer_retreating.md)) 
- ([image](homer_retreating/homer_retreating.mp4))
-=======
 **Patrick not my Wallet**: A meme in which Patrick from Spongebob agrees with some statements and then disagrees with the final one.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/patrick_not_my_wallet/patrick_not_my_wallet.md)) 
  ([preview](patrick_not_my_wallet/patrick_not_my_wallet.md)) 
@@ -70,4 +59,3 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/why_are_you_like_this/why_are_you_like_this.md)) 
  ([preview](why_are_you_like_this/why_are_you_like_this.md)) 
  ([image](why_are_you_like_this/why_are_you_like_this.jpg))
->>>>>>> add_descriptions1
