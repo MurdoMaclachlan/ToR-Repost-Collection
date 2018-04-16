@@ -2,7 +2,7 @@
 
 ---
 
-[*Image is* ***Ferris*** *from Re:Zero's face with her mouth and eyes wide open, and her fingers reaching over from behind her head. She is tinted pink/ red and blurred, with trees in the background.*] 
+[*Image is* ***Ferris*** from Re:Zero's face with their mouth and eyes wide open, and their fingers reaching over their behind their head. They are tinted pink/red and blurred, with trees in the background. They have light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears, yellow eyes, and appear feminine. They have white and blue ribbons in their hair, a blue collar with a ribbon.*] 
 
 DISTRESSED GAY SOUNDS
 
