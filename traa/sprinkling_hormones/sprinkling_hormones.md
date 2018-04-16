@@ -18,9 +18,15 @@
 
 ---
 
-**3-4**
+**3**
 
-[*God sprinkling {{WRONG_HORMONE}} on {{GENDER}}.*]
+[*God sprinkling {{WRONG_HORMONE}} on {{GENDER}} - only a couple of grains.*]
+
+
+---
+**4**
+
+[*The salt shaker lid pops off and th man is covered in estrogen.]
 
 **God**: that ain't {{CORRECT_HORMONE}}
 
