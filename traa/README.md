@@ -30,7 +30,7 @@
   [sad](gay_sounds/sad.jpg),
   [happy](gay_sounds/happy.png),
   [nervous](gay_sounds/nervous.jpg),
-  [very happy](gay_sounds/very_happy.md))
+  [very happy](gay_sounds/very_happy.jpg))
 
 **Guess I'll Die variant** -  A meme of a feminine person saying Guess I'll <Text here.>
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/guess_ill/guess_ill.md)) 
