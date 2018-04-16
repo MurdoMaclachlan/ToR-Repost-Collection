@@ -53,6 +53,11 @@
  ([preview](maybe_just_die/maybe_just_die.md)) 
  ([image](maybe_just_die/maybe_just_die.jpg))
 
+**Sprinkling Hormones** - A comic of god sprinkling the wrong hormone on a gender.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/sprinkling_hormones/sprinkling_hormones.md)) 
+ ([preview](sprinkling_hormones/sprinkling_hormones.md)) 
+ ([image](sprinkling_hormones/sprinkling_hormones.jpg))
+
 **This is fine** - A comic where the main character (feminine, compared to standaard variant) is surrounded by fair, yet says "this is fine".
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/fire_this_is_fine/fire_this_is_fine.md)) 
  ([preview](fire_this_is_fine/fire_this_is_fine.md)) 
