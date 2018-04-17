@@ -35,6 +35,12 @@
  ([preview](im_in_danger/im_in_danger.md)) 
  ([image](im_in_danger/im_in_danger.jpg))
 
+**Hard to swallow pills** - A two panel comic, labelling a hard to swallow pill
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/hard_to_swallow_pills/hard_to_swallow_pills.md)) 
+ ([preview](hard_to_swallow_pills/hard_to_swallow_pills.md)) 
+ ([image](hard_to_swallow_pills/hard_to_swallow_pills.png))
+
+
 **Gru Flipchart** - A meme taken from the movie series "Despicable Me". Gru presents from a flipchart that has been modified by his children. The first 2 slides normally contain a normal process, like "I start a project", "I copy the example code". The last 2 whiteboards generally contain the same text, and are an unexpected side-effect, such as "It fails to compile" 
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/gru_flipchart/gru_flipchart.md)) 
  ([preview](gru_flipchart/gru_flipchart.md)) 
