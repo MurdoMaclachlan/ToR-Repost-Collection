@@ -25,7 +25,7 @@
  ([preview](change_my_mind/change_my_mind.md)) 
  ([image](change_my_mind/change_my_mind.jpeg))
 
-**Dsitracted Boyfriend** - A meme taken where there is a man looking at a random person in the street instead of his girlfriend
+**Distracted Boyfriend** - A meme taken where there is a man looking at a random person in the street instead of his girlfriend
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/distracted_boyfriend/distracted_boyfriend.md)) 
  ([preview](distracted_boyfriend/distracted_boyfriend.md)) 
  ([image](distracted_boyfriend/distracted_boyfriend.png))
