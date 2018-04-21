@@ -75,3 +75,9 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/why_are_you_like_this/why_are_you_like_this.md)) 
  ([preview](why_are_you_like_this/why_are_you_like_this.md)) 
  ([image](why_are_you_like_this/why_are_you_like_this.jpg))
+
+**Why would you do This**: A two panel comic of a masculine dark skinned person shooting someone and then pasing the blame
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/why_would_they_do_this/why_would_they_do_this.md)) 
+ ([preview](why_would_they_do_this/why_would_they_do_this.md)) 
+ ([image](why_would_they_do_this/why_would_they_do_this.jpg))
+
