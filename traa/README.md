@@ -12,6 +12,7 @@
 
 **Gay sounds** - A meme of Ferris from Re:Zero, under which is the text "gay sounds", with various adjectives before this.
  (source:
+  [angry](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/angry.md),
   [distressed](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/distressed.md),
   [sad](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/sad.md),
   [happy](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/happy.md),
@@ -20,13 +21,15 @@
   [very nervous](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/very_nervous.md),
   [generic](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/generic.md)) 
  (preview: 
+  [angry](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/angry.md),
   [distressed](gay_sounds/distressed.md),
   [sad](gay_sounds/sad.md),
   [happy](gay_sounds/happy.md),
   [nervous](gay_sounds/nervous.md),
   [very happy](gay_sounds/very_happy.jpg),
   [very nervous](gay_sounds/very_nervous.jpg))
- ([image]: 
+ ([image]:
+  [angry](gay_sounds/angry.jpg),
   [distressed](gay_sounds/distressed.jpg),
   [sad](gay_sounds/sad.jpg),
   [happy](gay_sounds/happy.png),
