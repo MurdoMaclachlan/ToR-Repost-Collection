@@ -10,6 +10,11 @@
  ([preview](closet_rustling/closet_rustling.md)) 
  ([image](closet_rustling/closet_rustling.jpg))
 
+**Friendship Ended** - A meme of two Indian people holding hands with two images crossed out in the corners.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/friendship_ended/friendship_ended.md)) 
+ ([preview](friendship_ended/friendship_ended.md)) 
+ ([image](friendship_ended/friendship_ended.png))
+
 **Gay sounds** - A meme of Ferris from Re:Zero, under which is the text "gay sounds", with various adjectives before this.
  (source:
   [angry](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/gay_sounds/angry.md),
