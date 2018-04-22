@@ -61,6 +61,11 @@
  ([preview](pupil_dilation/pupil_dilation.md)) 
  ([image](pupil_dilation/pupil_dilation.jpg))
 
+**Steve Harvey Regret**: A meme in which two images of Steve Harvey are overlaid on each other, laughing and contemplating past decisions.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/steve_harvey_regret/steve_harvey_regret.md)) 
+ ([preview](steve_harvey_regret/steve_harvey_regret.md)) 
+ ([image](steve_harvey_regret/steve_harvey_regret.jpg))
+
 **Teutal Argument**: A comic in which Paul Jr fights with Sr. This involves a chair being thrown.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/teutul_argument/teutul_argument.md)) 
  ([preview](teutul_argument/teutul_argument.md)) 
