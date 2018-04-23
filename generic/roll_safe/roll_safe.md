@@ -2,7 +2,8 @@
 
 ---
 
-[*Image of a dark skinned masculine person with a blue leather jacket. They have a gold watch and necklace, and their right hand is pointing to their temples near the forehead, and they are smiling. They have black, slightly curly, short hair and a moustache The background is a blue wall with some glass that reflects a yellow wooden building.*]
+[*Image of a dark skinned masculine person with a blue leather jacket. They have black, slightly curly, short hair and a moustache. They have a gold watch and necklace. The background is a blue wall with some glass that reflects a yellow wooden building. The person is pointing to their temple near the forehead with their right hand and grinning with a knowing look on their face.*]
+.*]
 
 {{Text}}
 
