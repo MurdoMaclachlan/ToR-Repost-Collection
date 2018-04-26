@@ -37,7 +37,7 @@
   [very nervous](gay_sounds/very_nervous.jpg))
  ([image]:
   [angry](gay_sounds/angry.jpg),
-  [angry](gay_sounds/conflicted.jpg),
+  [conflicted](gay_sounds/conflicted.jpg),
   [distressed](gay_sounds/distressed.jpg),
   [sad](gay_sounds/sad.jpg),
   [happy](gay_sounds/happy.png),
