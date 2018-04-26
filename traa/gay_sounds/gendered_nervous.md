@@ -2,7 +2,7 @@
 
 ---
 
-[*Image is* ***Ferris*** *from Re:Zero. Ferris is feminine, has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. She has white and blue ribbons in her hair, and a blue collar with a ribbon. Behind her is some concrete pillars and a fence.*]
+[*Image is* ***Ferris*** *from Re:Zero. Ferris is feminine, has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. She has white and blue ribbons in her hair, and a blue collar with a ribbon. Behind her ARE some concrete pillars and a fence.*]
 
 ####*NERVOUS GAY SOUNDS*
 
