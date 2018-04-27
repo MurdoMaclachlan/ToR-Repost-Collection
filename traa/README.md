@@ -10,6 +10,11 @@
  ([preview](closet_rustling/closet_rustling.md)) 
  ([image](closet_rustling/closet_rustling.jpg))
 
+**Don't deserve to pass** - A meme of a light skinned masculine person replicating the "change my mind" meme but in a school
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/dont_deserve_to_pass/dont_deserve_to_pass.md)) 
+ ([preview](dont_deserve_to_pass/dont_deserve_to_pass.md)) 
+ ([image](dont_deserve_to_pass/dont_deserve_to_pass.png))
+
 **Friendship Ended** - A meme of two Indian people holding hands with two images crossed out in the corners.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/friendship_ended/friendship_ended.md)) 
  ([preview](friendship_ended/friendship_ended.md)) 
