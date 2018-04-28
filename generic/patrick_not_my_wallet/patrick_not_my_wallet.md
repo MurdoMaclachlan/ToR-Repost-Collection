@@ -20,7 +20,7 @@ Man Ray: {{REPLACE ME}}
 [*Patrick is nodding, saying yes semi-mindlessly*]
 
 
-Patrick: {{REPLACE ME}}
+Patrick: Yup
 
 ---
 
@@ -36,7 +36,7 @@ Man Ray: {{REPLACE ME}}
 
 [*Patrick is nodding, saying yes semi-mindlessly*]
 
-Patrick:  {{REPLACE ME}}
+Patrick:  Yup
 
 ---
 
@@ -47,7 +47,7 @@ Man Ray:  {{REPLACE ME}}
 ---
 **6**
 
-Patrick:  {{REPLACE ME}}
+Patrick:  That makes sense to me.
 
 ---
 
