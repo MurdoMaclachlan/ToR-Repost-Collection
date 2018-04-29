@@ -5,6 +5,11 @@
  ([preview](/))
  ([image](/))
 
+**BBQ Tools** - A laptop running bloated / resource intensive software is used to cook food over at /r/ProgrammerHumor
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/bbq_tools/bbq_tools.md)) 
+ ([preview](bbq_tools/bbq_tools.md))
+ ([image](bbq_tools/bbq_tools.png))
+
 **Blue Button Rush** - A meme in which a hand is rushing to a blue button 
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/blue_button_rush/blue_button_rush.md)) 
  ([preview](blue_button_rush/blue_button_rush.md)) 
