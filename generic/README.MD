@@ -66,6 +66,11 @@
  ([preview](pupil_dilation/pupil_dilation.md)) 
  ([image](pupil_dilation/pupil_dilation.jpg))
 
+**Reminisce**: A 4 panel comic of a post-apocalyptic post-internet world, where two survivors flash back on the best parts of the internet
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/reminisce/reminisce.md))
+ ([preview](reminisce/reminisce.md))
+ ([image](reminisce/reminisce.png))
+
  **Roll Safe**: A meme in which a dark skinned person is pointing to their head, generally accompanied by the text "Can't <xyz> if you don't <abc>".
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/roll_safe/roll_safe.md)) 
  ([preview](roll_safe/roll_safe.md)) 
