@@ -2,7 +2,7 @@
 
 ---
 
-[*A four panel comic of a light skinned feminine person with blond hair looking to the left of the camera and doing complex mathematics in their head.*]
+[*A four panel comic of a light skinned feminine person with blond hair looking to the left of the camera and doing complex mathematics in their head. Algorithms are overlaid in each panel in white text.*]
 
 
 
