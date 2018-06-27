@@ -91,6 +91,11 @@
  ([preview](try_not_to_cry/try_not_to_cry.md)) 
  ([image](try_not_to_cry/try_not_to_cry.jpg))
 
+**Wednesday Frog** - The `It's wednesday my dudes` frog from me_irl
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/wednesday_my_dudes/wednesday_my_dudes.md)) 
+ ([preview](wednesday_my_dudes/wednesday_my_dudes.md)) 
+ ([image](wednesday_my_dudes/wednesday_my_dudes.png))
+
 **Why are you like This**: An image in which a naked man looks at himself and asks "why are you like this?"
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/why_are_you_like_this/why_are_you_like_this.md)) 
  ([preview](why_are_you_like_this/why_are_you_like_this.md)) 
