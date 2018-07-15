@@ -1,10 +1,10 @@
-*Image Transcription:*
+*Image Transcription: Meme*
 
 ---
 
-[*A four panel comic of a light skinned feminine person with blond hair looking to the left of the camera and doing complex mathematics in their head. Algorithms are overlaid in each panel in white text.*]
+[*The below text accompanies an image of a large orange frog, which appears to be smiling. The frog is most commonly known from the "It is Wednesday, my dudes" meme.*]
 
-
+[[REPLACE ME]]
 
 ---
 
