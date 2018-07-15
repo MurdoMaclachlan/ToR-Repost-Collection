@@ -80,3 +80,8 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/fire_this_is_fine/fire_this_is_fine.md)) 
  ([preview](fire_this_is_fine/fire_this_is_fine.md)) 
  ([image](fire_this_is_fine/fire_this_is_fine.jpg))
+
+**Yellow hair red eyes** - An image of a light skinned feminine person (Tohru from Miss Kobayashi's Dragon Maid), slightly smiling.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/yellow_hair_red_eyes/yellow_hair_red_eyes.md)) 
+ ([preview](yellow_hair_red_eyes/yellow_hair_red_eyes.md)) 
+ ([image](yellow_hair_red_eyes/yellow_hair_red_eyes.png))
