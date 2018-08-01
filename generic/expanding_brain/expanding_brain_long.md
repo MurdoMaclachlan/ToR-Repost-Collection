@@ -24,9 +24,13 @@
 
 {{REPLACE ME}}
 
+---
+
 [*Level 5: Upper Body with most of it glowing red and holding their hand out in the direction of the viewer*]
 
 {{REPLACE ME}}
+
+---
 
 [*Level 6: Person Meditating, completely visible*]
 
