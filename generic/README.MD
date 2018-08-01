@@ -41,7 +41,7 @@
  ([image](expanding_brain/expanding_brain.jpeg))
  
  **Expanding Brain (long version)** - Same as Expanding Brain but with 6 rows instead of 4. 
- ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/expanding_brain/expanding_brain_long.md)) 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/expanding_brain/expanding_brain_long.md)) 
  ([preview](expanding_brain/expanding_brain_long.md)) 
  ([image](expanding_brain/expanding_brain_long.jpg))
 
