@@ -35,10 +35,15 @@
  ([preview](distracted_boyfriend/distracted_boyfriend.md)) 
  ([image](distracted_boyfriend/distracted_boyfriend.png))
 
-**Expanding Brain** - A multi levelled 2-column n-row image with different sizes of brains in one column and concepts getting more and more ridiculous the larger the brain gets in the right hand column 
+**Expanding Brain** - A multi levelled 2-column 4-row image with different sizes of brains in one column and concepts getting more and more ridiculous the larger the brain gets in the right hand column 
  ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/expanding_brain/expanding_brain.md)) 
  ([preview](expanding_brain/expanding_brain.md)) 
  ([image](expanding_brain/expanding_brain.jpeg))
+ 
+ **Expanding Brain (long version)** - Same as Expanding Brain but with 6 rows instead of 4. 
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/expanding_brain/expanding_brain_long.md)) 
+ ([preview](expanding_brain/expanding_brain_long.md)) 
+ ([image](expanding_brain/expanding_brain_long.jpg))
 
 **I'm in danger** - A meme in which Ralph from The Simpsons is sitting in the back of a bus saying I'm in danger 
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/im_in_danger/im_in_danger.md)) 
