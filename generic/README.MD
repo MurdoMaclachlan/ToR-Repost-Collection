@@ -34,6 +34,11 @@
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/distracted_boyfriend/distracted_boyfriend.md)) 
  ([preview](distracted_boyfriend/distracted_boyfriend.md)) 
  ([image](distracted_boyfriend/distracted_boyfriend.png))
+ 
+ **Excuse Me What The Fuck** - A meme where distorted picture of Vault Boy, the mascot of Fallout game series, saying "excuse me what the fuck
+ ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/blob/master/generic/excuse_me_what_the_fuck/excuse_me_what_the_fuck.md))
+ ([preview](excuse_me_what_the_fuck/excuse_me_what_the_fuck.md))
+ ([image](excuse_me_what_the_fuck/excuse_me_what_the_fuck.jpg))
 
 **Expanding Brain** - A multi levelled 2-column 4-row image with different sizes of brains in one column and concepts getting more and more ridiculous the larger the brain gets in the right hand column 
  ([source](https://github.com/codingJWilliams/ToR-Repost-Collection/raw/master/generic/expanding_brain/expanding_brain.md)) 
