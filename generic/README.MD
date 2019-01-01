@@ -91,6 +91,11 @@
  ([preview](steve_harvey_regret/steve_harvey_regret.md)) 
  ([image](steve_harvey_regret/steve_harvey_regret.jpg))
 
+**See, nobody cares**: A Jurrasic park meme in which the second panel is 'see, nobody cares'.
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/see_nobody_cares/see_nobody_cares.md)) 
+ ([preview](see_nobody_cares/see_nobody_cares.md)) 
+ ([image](see_nobody_cares/see_nobody_cares.jpg))
+
 **Teutal Argument**: A comic in which Paul Jr fights with Sr. This involves a chair being thrown.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/teutul_argument/teutul_argument.md)) 
  ([preview](teutul_argument/teutul_argument.md)) 
