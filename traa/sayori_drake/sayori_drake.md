@@ -7,7 +7,7 @@
 |Image|Text|
 |:-|:-|
 |[*Sayori is wearing sunglasses and looks displeased with her hand up in a "not today" manner*]|{{REPLACE ME}}|
-|[*Saori has her head up high, looking pleased, with a finger pointed at the camera*]|{{REPLACE ME}}|
+|[*Sayori has her head up high, looking pleased, with a finger pointed at the camera*]|{{REPLACE ME}}|
 
 ---
 
