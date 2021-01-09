@@ -12,7 +12,7 @@
 
 ---
 
-[*In the second panel, he has spread his arms out and is staring past the microphone with a look of sarcastic shock. The text reads:*]
+[*In the second panel, he has spread his arms out and is staring past the microphone with a look of sarcastic disregard. The text reads:*]
 
 {{REPLACE ME}}
 
