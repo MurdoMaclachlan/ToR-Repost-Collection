@@ -8,25 +8,25 @@
 
 [*In the first panel, he has a rather bored, or perhaps annoyed expression, as he stares blankly into the crowd. The text reads:*]
 
-# {{REPLACE ME}}
+{{REPLACE ME}}
 
 ---
 
 [*In the second panel, he has spread his arms out and is staring past the microphone with a look of sarcastic shock. The text reads:*]
 
-# {{REPLACE ME}}
+{{REPLACE ME}}
 
 ---
 
 [*In the third panel, he continues to stare past the microphone, but his expression is now one of overwhelming excitement.*]
 
-# {{REPLACE ME}}
+{{REPLACE ME}}
 
 ---
 
 [*In the fourth panel, the image has been deep fried, and Bernie Sanders appears to be yelling something as a bright red glow emanates from his eyes.*]
 
-# {{REPLACE ME}}
+{{REPLACE ME}}
 
 ---
 
