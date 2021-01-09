@@ -2,7 +2,7 @@
 
 ---
 
-[*A four-panelled meme with text to the left and an image to the right of each panel. In each image, Bernie Sanders stands behind a podium with a microphone in front of him and the flags of Iowa and the United States hanging behind him, and his campaign logo on a wall behind those. *]
+[*A four-panelled meme with text to the left and an image to the right of each panel. In each image, Bernie Sanders stands behind a podium with a microphone in front of him and the flags of Iowa and the United States hanging behind him, and his campaign logo on a wall behind those.*]
 
 ---
 
