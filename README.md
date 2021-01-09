@@ -6,7 +6,7 @@ This allows us to transcribe with more ease ~~and get gammas faster~~, provide 
 
 The original repository was created by **/u/VoidCraftedGaming**; much credit to him. **/u/MurdoMaclachlan** forked the repository after activity in it died.
 
-For a list of wanted templates, see [here](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/blob/master/WANTED_TEMPLATES.md).
+For information regarding wanted templates, see [here](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/blob/master/WANTED_TEMPLATES.md).
 
 ---
 
