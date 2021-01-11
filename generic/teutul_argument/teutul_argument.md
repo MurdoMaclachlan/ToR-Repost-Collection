@@ -8,7 +8,7 @@
 
 ---
 
-**1**
+**Panel 1**
 
 [*Teutul Sr yells towards the right of the frame, pointing off screen*]
 
@@ -16,7 +16,7 @@
 
 ---
 
-**2**
+**Panel 2**
 
 [*Teutul Jr slams his hand down on the desk, yelling angrily*]
 
@@ -24,7 +24,7 @@
 
 ---
 
-**3**
+**Panel 3**
 
 [*Teutul Sr has turned in his chair to face Jr more directly, and leans forward, now also angrily yelling*]  
 
@@ -32,7 +32,7 @@
 
 ---
 
-**4**
+**Panel 4**
 
 [*A chair is flying through the air towards the camera; it is unclear who has thrown it. Teutul Jr jumps away, whilst Sr, who is in the background, puffs his cheeks and leans forward. It is unclear who has spoken, however following the format of the comic it is likely Teutul Jr*]
 
@@ -40,13 +40,11 @@
 
 ---
 
-
-**5**
+**Panel 5**
 
 [*Teutul Sr stands in a doorway, pointing angrily off camera while yelling*]
 
 **Sr**: {{REPLACE ME}}
-
 
 ---
 
