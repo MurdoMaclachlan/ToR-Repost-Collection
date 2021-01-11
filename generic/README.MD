@@ -91,7 +91,7 @@
  ([preview](robin_holding_a_whiteboard/robin_holding_a_whiteboard.md))
  ([image](robin_holding_a_whiteboard/robin_holding_a_whiteboard.png))
 
-**Roll Safe**: A meme in which a dark skinned person is pointing to their head, generally accompanied by the text "Can't <xyz> if you don't <abc>".
+**Roll Safe**: A meme in which a dark skinned person is pointing to their head, generally accompanied by the text "Can't <xyz\> if you don't <abc\>".
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/generic/roll_safe/roll_safe.md)) 
  ([preview](roll_safe/roll_safe.md)) 
  ([image](roll_safe/roll_safe.png))
