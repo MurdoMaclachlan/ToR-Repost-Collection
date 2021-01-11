@@ -2,13 +2,11 @@
 
 ---
 
-####UUUUUUUUUUUUUUUUUUUUURGH
+[*GIF of Homer (Yellow skinned masculine person from The Simpsons with a white shirt and blue pants. ) retreating in to a green bush. There is text at the top and bottom of the gif, which reads:*]
 
+Top: {{REPLACE ME}}
 
-
-[*GIF of Homer (Yellow skinned masculine person from The Simpsons with a white shirt and blue pants. ) retreating in to a green bush.*]
-
-####WHY AM I LIKE THAT
+Bottom: {{REPLACE ME}}
 
 ---
 
