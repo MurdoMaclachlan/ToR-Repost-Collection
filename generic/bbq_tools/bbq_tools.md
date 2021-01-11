@@ -14,13 +14,13 @@
 
  **Panel 2**
 
-[*A small laptop is visible in the frame. The second man's hand reaches towards the touch pad. On the laptop's screen is {__REPLACEME__}, a framework notorious for using an excessive amount of resources*]
+[*A small laptop is visible in the frame. The second man's hand reaches towards the touch pad. On the laptop's screen is {{REPLACE ME}}, a framework notorious for using an excessive amount of resources*]
 
 ---
 
 **Panel 3**
 
-[*The two men crouch down next to the laptop. They have fashioned Y shaped sticks to hold their skewer over the laptop, which is still {__REPLACEME__}. Smoke rises from the skewer and the men look proud*] 
+[*The two men crouch down next to the laptop. They have fashioned Y shaped sticks to hold their skewer over the laptop, which is still {{REPLACE ME}}. Smoke rises from the skewer and the men look proud*] 
 
 ---
 
