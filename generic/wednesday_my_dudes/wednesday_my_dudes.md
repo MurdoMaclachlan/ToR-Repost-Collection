@@ -4,7 +4,7 @@
 
 [*The below text accompanies an image of a large orange frog, which appears to be smiling. The frog is most commonly known from the "It is Wednesday, my dudes" meme.*]
 
-[[REPLACE ME]]
+{{REPLACE ME}}
 
 ---
 
