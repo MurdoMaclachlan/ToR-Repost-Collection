@@ -6,8 +6,7 @@
 
 [*Two masculine characters from Jurrasic Park are on a table at a restaurant at the beach, one who has a floral print shirt and glasses (Dennis Nedry), and another with a red shirt, a hat, and sunglasses (Lew Dodgson).*]
 
-**Dennis Nedry** (Shouting):  {{Text}}!
-
+**Dennis Nedry** (Shouting):  {{REPLACE ME}}!
 
 ---
 
