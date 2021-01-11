@@ -2,15 +2,15 @@
 
 ---
 
-**1**
+**Panel 1**
 
-[*Dark skinned masculine person (Eric Andre - "{{DarkPerson}}") with black hair in an afro. They have a grey suit over a white shirt. The background is a wall with red rectangles in the middle. {{DarkPerson}} is pointing a gun at a dark skinned person (Hannibal Buress - "{{DeadPerson}}") in a blue shirt and black pants, making them appear dead. There is a table visible in the background with a globe, and a pot plant next to it.*]
+[*Dark skinned masculine person (Eric Andre - "{{DarkPerson}}") with black hair in an afro. They have a grey suit over a white shirt. The background is a wall with red rectangles in the middle. Andre is pointing a gun at a dark skinned person (Hannibal Buress - "{{DeadPerson}}") in a blue shirt and black pants, making them appear dead. There is a table visible in the background with a globe, and a pot plant next to it. Subtitles read:*]
 
 [Gunshots]
 
 ---
 
-**2**
+**Panel 2**
 
 [*{{DarkPerson}} look to the camera.*]
 
