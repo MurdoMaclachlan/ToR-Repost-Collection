@@ -18,7 +18,7 @@
 
 **Panel 3**
 
-[*{__REPLACEME__}*]
+[*{{REPLACE ME}}*]
 
 ---
 
