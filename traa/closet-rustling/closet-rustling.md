@@ -4,7 +4,7 @@
 
 [*Image of a dark red closet, with lighter two panel dors. The outside is a gradient - blue to red to white to red - mirroring the colours on the trans flag.*]
 
-###*MUFFLED CLOSET RUSTLING*
+### *MUFFLED CLOSET RUSTLING*
 
 ---
 
