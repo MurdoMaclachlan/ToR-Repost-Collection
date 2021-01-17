@@ -2,13 +2,13 @@
 
 ---
 
-**1**
+**Panel 1**
 
 [*There is a cartoon stylised feminine person (Flora from Fire Emblem Fates) with blue hair and a maid headband (appears like a maid headband). They have grey eyes and a black dress that has white on the edges and a red oval on the chest area. There is a fire engulfing the room and smoke blanketing the ceiling. There is a grey, empty frame on the green wall. Behind them is a door but it has fire behind it as well.*]
 
 ---
 
-**2**
+**Panel 2**
 
 [*Same as the last panel but zoomed in on their face.*]
 
