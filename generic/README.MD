@@ -131,7 +131,7 @@
  ([preview](wednesday-my-dudes/wednesday-my_dudes.md)) 
  ([image](wednesday-my-dudes/wednesday-my-dudes.png))
 
-**Why are you like This**: An image in which a naked man looks at himself and asks "why are you like this?"
+**Why are you like This**: An image in which a naked man looks at himself in a mirror and asks "why are you like this?"
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/why-are-you-like-this/why-are-you-like-this.md)) 
  ([preview](why-are-you-like-this/why-are-you-like-this.md)) 
  ([image](why-are-you-like-this/why-are-you-like-this.jpg))
