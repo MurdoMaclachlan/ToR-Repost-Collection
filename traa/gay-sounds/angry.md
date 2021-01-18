@@ -2,7 +2,7 @@
 
 ---
 
-[*Image is* ***Ferris*** from Re:Zero's face with their mouth and eyes wide open, and their fingers reaching over their behind their head. There are trees in the background. They have light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears, yellow eyes, and appear feminine. They have white and blue ribbons in their hair, a blue collar with a ribbon.*] 
+[*Image is **Ferris** from Re:Zero's face with their mouth and eyes wide open, and their fingers reaching over their behind their head. There are trees in the background. They have light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears, yellow eyes, and appear feminine. They have white and blue ribbons in their hair, a blue collar with a ribbon.*] 
 
 DISTRESSED GAY SOUNDS
 
