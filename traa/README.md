@@ -77,7 +77,7 @@
  ([preview](sprinkling-hormones/sprinkling-hormones.md)) 
  ([image](sprinkling-hormones/sprinkling-hormones.jpg))
 
-**This is fine**: A comic where the main character (feminine, compared to standaard variant) is surrounded by fire, yet says "this is fine".
+**This is fine**: A comic where the main character (feminine, compared to standard variant) is surrounded by fire, yet says "this is fine".
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/this-is-fine/this-is-fine.md)) 
  ([preview](this-is-fine/this-is-fine.md)) 
  ([image](this-is-fine/this-is-fine.jpg))
