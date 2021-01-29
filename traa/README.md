@@ -67,20 +67,26 @@
   [enby](mascots/enby.png),
   [tomboy](mascots/tomboy.jpg))
 
-**Maybe I'll just die.**: Bedroom with the text "Maybe I'll just die.
+**Maybe I'll just die.**: Bedroom with the text "Maybe I'll just die."
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/maybe-just-die/maybe-just-die.md)) 
  ([preview](maybe-just-die/maybe-just-die.md)) 
  ([image](maybe-just-die/maybe-just-die.jpg))
+
+**Sayori Drake**: A variant of the Drakeposting meme, where Drake is replaced with the character Sayori from "Doki Doki Literature Club".
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/readme-auto/traa/sayori-drake/sayori-drake.md))
+ ([preview](sayori-drake/sayori-drake.md))
+ ([image](sayori-drake/sayori-drake.png))
 
 **Sprinkling Hormones**: A comic of god sprinkling the wrong hormone on a gender.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/sprinkling-hormones/sprinkling-hormones.md)) 
  ([preview](sprinkling-hormones/sprinkling-hormones.md)) 
  ([image](sprinkling-hormones/sprinkling-hormones.jpg))
 
-**This is fine**: A comic where the main character (feminine, compared to standaard variant) is surrounded by fire, yet says "this is fine".
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/fire-this-is-fine/fire-this-is-fine.md)) 
- ([preview](fire-this-is-fine/fire-this-is-fine.md)) 
- ([image](fire-this-is-fine/fire-this-is-fine.jpg))
+**This is fine**: A comic where the main character (feminine, compared to standard variant) is surrounded by fire, yet says "this is fine".
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/this-is-fine/this-is-fine.md)) 
+ ([preview](this-is-fine/this-is-fine.md)) 
+ ([image](this-is-fine/this-is-fine.jpg))
+
 
 **Yellow hair red eyes**: An image of a light skinned feminine person (Tohru from Miss Kobayashi's Dragon Maid), slightly smiling.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/yellow-hair-red-eyes/yellow-hair-red-eyes.md)) 
