@@ -78,9 +78,9 @@
  ([image](sprinkling-hormones/sprinkling-hormones.jpg))
 
 **This is fine**: A comic where the main character (feminine, compared to standaard variant) is surrounded by fire, yet says "this is fine".
- ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/fire-this-is-fine/fire-this-is-fine.md)) 
- ([preview](fire-this-is-fine/fire-this-is-fine.md)) 
- ([image](fire-this-is-fine/fire-this-is-fine.jpg))
+ ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/this-is-fine/this-is-fine.md)) 
+ ([preview](this-is-fine/this-is-fine.md)) 
+ ([image](this-is-fine/this-is-fine.jpg))
 
 **Yellow hair red eyes**: An image of a light skinned feminine person (Tohru from Miss Kobayashi's Dragon Maid), slightly smiling.
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/yellow-hair-red-eyes/yellow-hair-red-eyes.md)) 
