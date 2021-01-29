@@ -67,7 +67,7 @@
   [enby](mascots/enby.png),
   [tomboy](mascots/tomboy.jpg))
 
-**Maybe I'll just die.**: Bedroom with the text "Maybe I'll just die".
+**Maybe I'll just die.**: Bedroom with the text "Maybe I'll just die."
  ([source](https://raw.githubusercontent.com/codingJWilliams/ToR-Repost-Collection/master/traa/maybe-just-die/maybe-just-die.md)) 
  ([preview](maybe-just-die/maybe-just-die.md)) 
  ([image](maybe-just-die/maybe-just-die.jpg))
