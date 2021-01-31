@@ -42,8 +42,8 @@
  ([image](double-soda-pour/double-soda-pour.jpg))
 
 **Drakeposting**: A 2-column 2-row image. In the left two squares are 'Drake', a musician, in different states of how happy he is. 
- ([source](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/raw/master/generic/drake/drake-table-detailed.md)) 
- ([preview](drake/drake_table-detailed.md)) 
+ (source: [detailed table](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/raw/master/generic/drake/drake-table-detailed.md), [concise table](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/drake/drake-table-concise.md), [no table](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/drake/drake-no-table.md)) 
+ (preview: [detailed table](drake/drake-table-detailed.md), [concise table](drake/drake-table-concise.md), [no table](drake/drake-no-table.md)) 
  ([image](drake/drake.jpg))
  
  **Excuse Me What The Fuck**: A meme where distorted picture of Vault Boy, the mascot of Fallout game series, saying "excuse me what the fuck
