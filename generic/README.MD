@@ -111,6 +111,11 @@
  ([preview](steve-harvey-regret/steve-harvey-regret.md)) 
  ([image](steve-harvey-regret/steve-harvey-regret.jpg))
 
+**Surprised Pikachu**: A reaction image of pikachu looking shocked.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/surprised-pikachu/surprised-pikachu.md))
+ ([preview](surprised-pikachu/surprised-pikachu.md))
+ ([image](surprised-pikachu/surprised-pikachu.jpg))
+
 **Teutal Argument**: A comic in which Paul Jr fights with Sr. This involves a chair being thrown.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/teutul-argument/teutul-argument.md)) 
  ([preview](teutul-argument/teutul-argument.md)) 
