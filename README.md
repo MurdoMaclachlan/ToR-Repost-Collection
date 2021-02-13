@@ -8,6 +8,8 @@ The original repository was created by **/u/VoidCraftedGaming**; much credit to 
 
 For information regarding wanted templates, see [here](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/blob/master/WANTED_TEMPLATES.md).
 
+Also see [this google doc](https://docs.google.com/document/d/1COYykgomeJ5CPIPo8zhb8-Z-qUrMH1hUH4VYM3pG6bM/edit) for a long list of crowdsourced templates. The formats they've used are different from ToR's, but I hope to reformat them to our templates and incorporate them over time.
+
 ---
 
 ## Pull requests are very much appreciated
