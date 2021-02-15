@@ -61,6 +61,11 @@
  ([preview](expanding-brain/expanding-brain-long.md)) 
  ([image](expanding-brain/expanding-brain-long.jpg))
 
+**Feelings of Power**: A graph used to display different things that give people feelings of power, usually with the last and most powerful entry being something unusual or humorous.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/feelings-of-power/feelings-of-power.md))
+ ([preview](feelings-of-power/feelings-of-power.md))
+ ([image](feelings-of-power/feelings-of-power.jpg))
+
 **Gru Flipchart**: A meme taken from the movie series "Despicable Me". Gru presents from a flipchart that has been modified by his children. The first 2 slides normally contain a normal process, like "I start a project", "I copy the example code". The last 2 whiteboards generally contain the same text, and are an unexpected side-effect, such as "It fails to compile" 
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/gru-flipchart/gru-flipchart.md)) 
  ([preview](gru-flipchart/gru-flipchart.md)) 
