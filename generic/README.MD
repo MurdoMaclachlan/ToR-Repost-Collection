@@ -111,6 +111,11 @@
  ([preview](see-nobody-cares/see-nobody-cares.md)) 
  ([image](see-nobody-cares/see-nobody-cares.jpg))
 
+**Squidward's Lounge Chair**: Two exploitable stills of Squidward, from SpongeBob SquarePants, with a lounge chair.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/squidward-lounge-chair/squidward-lounge-chair.md))
+ ([preview](squidward-lounge-chair/squidward-lounge-chair.md))
+ ([image](squidward-lounge-chair/squidward-lounge-chair.png))
+
 **Steve Harvey Regret**: A meme in which two images of Steve Harvey are overlaid on each other, laughing and contemplating past decisions.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/steve-harvey-regret/steve-harvey-regret.md)) 
  ([preview](steve-harvey-regret/steve-harvey-regret.md)) 
