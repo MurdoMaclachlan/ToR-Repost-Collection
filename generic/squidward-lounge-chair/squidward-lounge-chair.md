@@ -8,7 +8,7 @@
 
 ---
 
-[*Image 2: Squidward, looking annoyed and taking the sun lounger away again:*]
+[*Image 2: Squidward, looking annoyed and disappointed, and taking the sun lounger away again:*]
 
 {{REPLACE ME}}
 
