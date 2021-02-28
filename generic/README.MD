@@ -131,6 +131,11 @@
  ([preview](teutul-argument/teutul-argument.md)) 
  ([image](teutul-argument/teutul-argument.jpg))
 
+**This is worthless:** A two-panel exploitable image meme of Dipper from "Gravity Falls" holding a piece of paper.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/this-is-worthless/this-is-worthless.md))
+ ([preview](this-is-worthless/this-is-worthless.md))
+ ([image](this-is-worthless/this-is-worthless.webp))
+
 **Try not to Cry** - A three panel comic, ending with "try not to cry" 
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/try-not-to-cry/try-not-to-cry.md)) 
  ([preview](try-not-to-cry/try-not-to-cry.md)) 
