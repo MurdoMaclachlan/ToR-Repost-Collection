@@ -21,6 +21,6 @@ If you're struggling to contribute contact **Murdo#0949** on Discord, or e-mail 
 
 [Generic](generic/README.MD)
 
-[traaaaaaannnnnnnnnns](traa/README.md)
+[LGBT+](lgbtplus/README.md)
 
 [wojak](wojak/README.md)
