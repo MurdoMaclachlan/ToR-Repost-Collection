@@ -87,6 +87,10 @@
  ([preview](this-is-fine/this-is-fine.md)) 
  ([image](this-is-fine/this-is-fine.jpg))
 
+**Wish All A Very Pleasant**: An image of Bugs Bunny in a suit, with text stating that he wishes something.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/lgbtplus/wish-all-a-very-pleasant/wish-all-a-very-pleasant.md))
+ ([preview](wish-all-a-very-pleasant/wish-all-a-very-pleasant.md))
+ ([image](wish-all-a-very-pleasant/wish-all-a-very-pleasant.png))
 
 **Yellow hair red eyes**: An image of a light skinned feminine person (Tohru from Miss Kobayashi's Dragon Maid), slightly smiling.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/lgbtplus/yellow-hair-red-eyes/yellow-hair-red-eyes.md)) 
