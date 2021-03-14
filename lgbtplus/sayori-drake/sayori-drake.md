@@ -2,7 +2,7 @@
 
 ---
 
-[*Image is the Drake dabbing meme modified to use images of Sayori from Doki Doki Literature Club(DDLC).*]
+[*The image is the Drake dabbing meme modified to use images of Sayori from Doki Doki Literature Club.*]
 
 |Image|Text|
 |:-|:-|
