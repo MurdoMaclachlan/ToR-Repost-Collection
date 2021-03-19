@@ -171,3 +171,7 @@
  ([preview](why-would-they-do-this/why-would-they-do-this.md)) 
  ([image](why-would-they-do-this/why-would-they-do-this.jpg))
 
+**You guys just**: A text-exploitable image of someone sitting next to a presentation projection.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/you-guys-just/you-guys-just.md))
+ ([preview](you-guys-just/you-guys-just.md))
+ ([image](you-guys-just/you-guys-just.png))
