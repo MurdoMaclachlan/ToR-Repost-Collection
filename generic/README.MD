@@ -141,6 +141,11 @@
  ([preview](try-not-to-cry/try-not-to-cry.md)) 
  ([image](try-not-to-cry/try-not-to-cry.jpg))
 
+**Tuxedo Winnie the Pooh**: A two-panel exploitable image meme of Winnie the Pooh looking uninterested, then approving.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/tuxedo-winnie-the-pooh/tuxedo-winnie-the-pooh.md)))
+ ([preview](tuxedo-winnie-the-pooh/tuxedo-winnie-the-pooh.md))
+ ([image](tuxedo-winnie-the-pooh/tuxedo-winnie-the-pooh.jpg))
+
 **Vince McMahon Reactions**: Images of WWE CEO Vince McMahon reacting with increased excitement.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/vince-mcmahon-reactions/vince-mcmahon-reactions.md))
  ([preview](vince-mcmahon-reactions/vince-mcmahon-reactions.md))
