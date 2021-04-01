@@ -2,6 +2,6 @@
 
 > Structure of each listing:  
 > **Meme Name**: Brief Description
- ([source](/))
- ([preview](/))
- ([image](/))
+ ([source]())
+ ([preview]())
+ ([image]())

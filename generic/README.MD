@@ -2,9 +2,9 @@
 
 > Structure of each listing:  
 > **Meme Name**: Brief Description
- ([source](/))
- ([preview](/))
- ([image](/))
+ ([source]())
+ ([preview]())
+ ([image]())
 
 **BBQ Tools**: A laptop running bloated / resource intensive software is used to cook food over at /r/ProgrammerHumor
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/bbq-tools/bbq-tools.md)) 
@@ -80,6 +80,11 @@
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/im-in-danger/im-in-danger.md)) 
  ([preview](im-in-danger/im-in-danger.md)) 
  ([image](im-in-danger/im-in-danger.jpg))
+
+**John Mulaney Reactions**: Reaction images of John Mulaney, in a similar format to the Drakeposting meme.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/john-mulaney-reactions/john-mulaney-reactions.md))
+ ([preview](john-mulaney-reactions/john-mulaney-reactions.md))
+ ([image](john-mulaney-reactions/john-mulaney-reactions.jpg))
 
 **Patrick not my Wallet**: A meme in which Patrick from Spongebob agrees with some statements and then disagrees with the final one.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/patrick-not-my-wallet/patrick-not-my-wallet.md)) 
@@ -171,3 +176,7 @@
  ([preview](why-would-they-do-this/why-would-they-do-this.md)) 
  ([image](why-would-they-do-this/why-would-they-do-this.jpg))
 
+**You guys just**: A text-exploitable image of someone sitting next to a presentation projection.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/you-guys-just/you-guys-just.md))
+ ([preview](you-guys-just/you-guys-just.md))
+ ([image](you-guys-just/you-guys-just.png))

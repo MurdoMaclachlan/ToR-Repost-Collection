@@ -2,9 +2,9 @@
 
 > Structure of each listing:  
 > **Meme Name**: Brief Description
- ([source](/))
- ([preview](/))
- ([image](/))
+ ([source]())
+ ([preview]())
+ ([image]())
 
 **Closet Rustling**: A meme of a red closet, under wich is the text ***closet rustling***
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/lgbtplus/closet-rustling/closet-rustling.md)) 
