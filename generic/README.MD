@@ -141,6 +141,11 @@
  ([preview](this-is-worthless/this-is-worthless.md))
  ([image](this-is-worthless/this-is-worthless.webp))
 
+**This little maneuver**: An exploitable image meme of Cooper, from "Interstellar", stating that: "This little maneuver is going to cost us 51" of something.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/this-little-maneuver/this-little-maneuver.md))
+ ([preview](this-little-maneuver/this-little-maneuver.md))
+ ([image](this-little-maneuver/this-little-maneuver.png))
+
 **Try not to Cry** - A three panel comic, ending with "try not to cry" 
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/try-not-to-cry/try-not-to-cry.md)) 
  ([preview](try-not-to-cry/try-not-to-cry.md)) 
