@@ -2,6 +2,9 @@
 
 ---
 
+[*The meme shows two images of rapper Drake, with text to the right of each image.*]
+
+---
 
 [*Drake looks displeased, and is using one arm to shield himself from the right side of the frame by curling it around his head, with his hand up in a "not today" manner*]
 
