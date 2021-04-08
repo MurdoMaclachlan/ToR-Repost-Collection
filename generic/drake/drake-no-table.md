@@ -1,4 +1,4 @@
-*Image Transcription: Two panel Drake Meme*
+*Image Transcription: Meme*
 
 ---
 
