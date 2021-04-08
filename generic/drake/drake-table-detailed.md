@@ -2,7 +2,9 @@
 
 ---
 
-[*Image is the Drake dabbing meme.*]
+[*The meme shows two images of rapper Drake, with text to the right of each image.*]
+
+---
 
 |Image|Text|
 :--|:--
