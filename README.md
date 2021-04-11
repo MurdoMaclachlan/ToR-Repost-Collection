@@ -27,5 +27,3 @@ Also see [this google doc](https://docs.google.com/document/d/1COYykgomeJ5CPIPo8
 For information regarding wanted templates, see [here](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/blob/master/WANTED_TEMPLATES.md).
 
 If you're struggling to contribute contact **Murdo#0949** on Discord, or e-mail murdo@maclachlans.org.uk.
-
---
