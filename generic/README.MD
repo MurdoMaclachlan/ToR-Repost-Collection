@@ -86,6 +86,11 @@
  ([preview](john-mulaney-reactions/john-mulaney-reactions.md))
  ([image](john-mulaney-reactions/john-mulaney-reactions.jpg))
 
+**Oh Dear, Gorgeous**: Two images of Gordon Ramsay; calm, then angry.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/oh-dear-gorgeous/oh-dear-gorgeous.md))
+ ([preview](oh-dear-gorgeous/oh-dear-gorgeous.md))
+ ([image](oh-dear-gorgeous/oh-dear-gorgeous.png))
+
 **Patrick not my Wallet**: A meme in which Patrick from Spongebob agrees with some statements and then disagrees with the final one.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/patrick-not-my-wallet/patrick-not-my-wallet.md)) 
  ([preview](patrick-not-my-wallet/patrick-not-my-wallet.md)) 
