@@ -8,8 +8,8 @@
 
 |Image|Text|
 :--|:--
-[*Drake looks displeased, and is using one arm to hide from the image by curling it around his head, with his hand up in a "not today" manner*]|{{REPLACE ME}}
-[*Drake has his head up high, looking pleased, with a finger pointed at the camera*]|{{REPLACE ME}}
+[*Drake looks displeased, and is using one arm to hide from the image by curling it around his head, with his hand up in a "not today" manner.*]|{{REPLACE ME}}
+[*Drake has his head up high, looking pleased, with a finger pointed at the camera.*]|{{REPLACE ME}}
 
 ---
 
