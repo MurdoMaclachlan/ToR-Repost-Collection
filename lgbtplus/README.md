@@ -73,8 +73,8 @@
  ([image](maybe-just-die/maybe-just-die.jpg))
 
 **Sayori Drake**: A variant of the Drakeposting meme, where Drake is replaced with the character Sayori from "Doki Doki Literature Club".
- ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/lgbtplus/sayori-drake/sayori-drake.md))
- ([preview](sayori-drake/sayori-drake.md))
+ (source: [no table](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/lgbtplus/sayori-drake/sayori-drake-no-table.md), [table](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/lgbtplus/sayori-drake/sayori-drake-table.md))
+ (preview: [no table](sayori-drake/sayori-drake-no-table.md), [table](sayori-drake/sayori-drake-table.md))
  ([image](sayori-drake/sayori-drake.png))
 
 **Sprinkling Hormones**: A comic of god sprinkling the wrong hormone on a gender.
