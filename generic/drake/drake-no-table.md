@@ -6,13 +6,13 @@
 
 ---
 
-[*Drake looks displeased, and is using one arm to shield himself from the right side of the frame by curling it around his head, with his hand up in a "not today" manner*]
+[*Drake looks displeased, and is using one arm to shield himself from the right side of the frame by curling it around his head, with his hand up in a "not today" manner.*]
 
 {{REPLACE ME}}
 
 ---
 
-[*Drake has his head up high, looking pleased, with a finger pointed up and towards the right side of the frame*] 
+[*Drake has his head up high, looking pleased, with a finger pointed up and towards the right side of the frame.*] 
 
 {{REPLACE ME}}
 
