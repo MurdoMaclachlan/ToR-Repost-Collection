@@ -1,8 +1,10 @@
-*Image Transcription: Sayori Meme*
+*Image Transcription: Meme*
 
 ---
 
-[*The image is the Drake dabbing meme modified to use images of Sayori from Doki Doki Literature Club.*]
+[*The meme shows two images of Sayori, from "Doki Doki Literature Club", with text to the right of each image.*]
+
+---
 
 |Image|Text|
 |:-|:-|
