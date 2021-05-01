@@ -4,7 +4,7 @@
 
 This allows us to transcribe with more ease ~~and get gammas faster~~, provide image transcriptions for those with vision impairments/ who use text-to-speech software, and those on mobile or with limited data.
 
-The original repository was created by **/u/VoidCraftedGaming**; much credit to him. **/u/MurdoMaclachlan** forked the repository after activity in it died.
+The original repository was created by **u/VoidCraftedGaming**; much credit to him. **u/MurdoMaclachlan** forked the repository after activity in it died.
 
 # Directory
 
