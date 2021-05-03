@@ -21,6 +21,11 @@
  ([preview](blue-button-rush/blue-button-rush.md)) 
  ([image](blue-button-rush/blue-button-rush.jpg))
 
+**Blue Shirt Computer Guys**: A GIF of two people in blue shirts at a laptop.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/blue-shirt-computer-guys/blue-shirt-computer-guys.md)) 
+ ([preview](blue-shirt-computer-guys/blue-shirt-computer-guys.md)) 
+ ([image](blue-shirt-computer-guys/blue-shirt-computer-guys.mp4))
+
 **Change my Mind**: A parody image of the youtube series "Change My Mind" by [Steven Crowder](https://www.youtube.com/channel/UCIveFvW-ARp_B_RckhweNJw). It usually has a socially controvertial statement on the top half of the table and the words "Change my mind" on the bottom. 
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/change-my-mind/change-my-mind.md)) 
  ([preview](change-my-mind/change-my-mind.md)) 
