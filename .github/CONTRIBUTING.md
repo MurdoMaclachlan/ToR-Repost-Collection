@@ -1,4 +1,4 @@
-1. Name your files like_this, not likeThis.
+1. Name your files like-this, not likeThis or like_this.
 
 2. Placeholders are `{{REPLACE ME}}`
 
