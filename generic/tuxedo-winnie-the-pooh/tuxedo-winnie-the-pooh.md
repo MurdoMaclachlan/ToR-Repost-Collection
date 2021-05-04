@@ -2,7 +2,7 @@
 
 ---
 
-[*On the top row is an image of Winnie the Pooh sitting in a chair, with an unimpressed look. On the right, text reads:*]
+[*On the top row is an image of Winnie the Pooh sitting in a chair, with an unimpressed look. On the right, the text reads:*]
 
 {{REPLACE ME}}
 
