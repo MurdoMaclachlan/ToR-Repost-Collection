@@ -4,11 +4,11 @@
 
 **Top Half:**
 
-[*This half is captioned with 'Other game leaks:' in the top left corner. On the left, a bald man is in tears beneath a mask of a smug face. The text 'hahaha this character dies 5 hours in' is beneath him. On the right, another bald man who wears glasses is openly sobbing. His mouth is agape and his beard is disheveled. Underneath his head is the text 'nooooooooooo'.*]
+[*This half is captioned with '{{REPLACE ME}}' in the top left corner. On the left, a bald man is in tears beneath a mask of a smug face. The text '{{REPLACE ME}}' is beneath him. On the right, another bald man who wears glasses is openly sobbing. His mouth is agape and his beard is disheveled. Underneath his head is the text '{{REPLACE ME}}'.*]
 
 **Bottom Half:**
 
-[*This half is captioned with 'Sonic Leaks:' in the top left corner. On the left, a blond, bearded man with meticulously manicured hair faces the right and gazes calmly, speaking. Below him is the text 'the game will be shit'. On the right, an identical man (only flipped horizontally) has the text 'we know' below him.*]
+[*This half is captioned with '{{REPLACE ME}}' in the top left corner. On the left, a blond, bearded man with meticulously manicured hair faces the right and gazes calmly, speaking. Below him is the text '{{REPLACE ME}}'. On the right, an identical man (only flipped horizontally) has the text '{{REPLACE ME}}' below him.*]
 
 ---
 
