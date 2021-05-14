@@ -2,6 +2,8 @@
 
 Huge credit to u/KomaedaEatsBagels, who did a fantastic job creating these templates.
 
+Files with markdown formatting have a source and a preview, files that are pure text have only a source.
+
 > Structure of each listing:  
 > **Meme Name**: Brief Description
  ([source]())
