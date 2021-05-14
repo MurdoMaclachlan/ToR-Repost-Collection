@@ -6,9 +6,13 @@
  ([preview]())
  ([image]())
  
+**Black Wojaks**: A collection of black single characters, not specifically part of a single meme template. Can be incorporated/adjusted as needed.
+ (source: [beaded cornrows](black-wojaks/beaded-cornrows.txt), [buzzed bearded](black-wojaks/buzzed-bearded.txt), [dreadlocks](black-wojaks/dreadlocks.txt), [natural hair hoops](black-wojaks/natural-hair-hoops.txt), [two tone pigtails](black-wojaks/two-tone-pigtails.txt))
+ (image: [beaded cornrows](black-wojaks/beaded-cornrows.png), [buzzed bearded](black-wojaks/buzzed-bearded.png), [dreadlocks](black-wojaks/dreadlocks.png), [natural hair hoops](black-wojaks/natural-hair-hoops.png), [two tone pigtails](black-wojaks/two-tone-pigtails.png))
+ 
 **Classic**: A collection of classic single characters/partial templates, not specifically part of a single meme template. Can be incorporated/adjusted as needed.
  (source: [classic](classic/classic.txt), [feel](classic/feel.txt), [go home](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/wojak/classic/go-home.md), [gun](classic/gun.txt), [npc](classic/npc.txt), [smug](classic/smug.txt), [wither](classic/wither.txt))
- (preview:  [go home](classic/go-home.md))
+ (preview: [go home](classic/go-home.md))
  (image: [classic](classic/classic.jpg), [feel](classic/feel.png), [go home](classic/go-home.jpg), [gun](classic/gun.jpg), [npc](classic/npc.jpg), [smug](classic/smug.jpg), [wither](classic/wither.jpg))
 
 **Doomers**: A collection of single doomer characters, not specifically part of a single meme template. Can be incorporated/adjusted as needed.
