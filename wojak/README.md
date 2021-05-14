@@ -1,5 +1,7 @@
 ## Wojak Templates
 
+Huge credit to u/KomaedaEatsBagels, who did a fantastic job creating these templates.
+
 > Structure of each listing:  
 > **Meme Name**: Brief Description
  ([source]())
