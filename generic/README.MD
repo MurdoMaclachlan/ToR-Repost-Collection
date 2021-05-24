@@ -162,7 +162,7 @@
  ([image](try-not-to-cry/try-not-to-cry.jpg))
 
 **Tuxedo Winnie the Pooh**: A two-panel exploitable image meme of Winnie the Pooh looking uninterested, then approving.
- ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/tuxedo-winnie-the-pooh/tuxedo-winnie-the-pooh.md)))
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/tuxedo-winnie-the-pooh/tuxedo-winnie-the-pooh.md))
  ([preview](tuxedo-winnie-the-pooh/tuxedo-winnie-the-pooh.md))
  ([image](tuxedo-winnie-the-pooh/tuxedo-winnie-the-pooh.jpg))
 
