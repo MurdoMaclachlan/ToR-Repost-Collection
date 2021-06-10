@@ -8,7 +8,7 @@ The original repository was created by **u/VoidCraftedGaming**; much credit to h
 
 # Directory
 
-[Generic](generic/README.MD)
+[Generic](generic/README.md)
 
 [LGBT+](lgbtplus/README.md)
 
