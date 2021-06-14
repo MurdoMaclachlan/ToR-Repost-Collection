@@ -1,20 +1,20 @@
-*Image Transcription: Comic*
+*Image Transcription: Meme*
 
 ---
 
-**Panel 1**
-
-[*Two masculine characters from Jurrasic Park are on a table at a restaurant at the beach, one who has a floral print shirt and glasses (Dennis Nedry), and another with a red shirt, a hat, and sunglasses (Lew Dodgson).*]
-
-**Dennis Nedry** (Shouting):  {{REPLACE ME}}!
+[*The meme shows two stills from Jurassic Park, with characters Lew Dodgson and Dennis Nedry sitting together. Both are captioned, the text indicating Nedry's dialogue.*]
 
 ---
 
-**Panel 2**
+[*In the first still, Nedry, who wears a colourful shirt, is looking around and pointing to Dodgson, who wears sunglasses and a hat and looks thoroughly displeased. The caption reads:*]
 
-[*The camera is now looking at them from Lew Dodgson's shoulder.*]
+{{REPLACE ME}}
 
-**Dennis Nedry**: SEE, NOBODY CARES.
+---
+
+[*In the second still, Nedry looks at Dodgson with the smugness of a bragger who has been proven right. The caption reads:*]
+
+See? nobody cares
 
 ---
 
