@@ -118,8 +118,8 @@
  
 **Putting on Clown Makeup**: 4 images of a person putting on clown makeup. Text beside each image.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/putting-on-clown-makeup/putting-on-clown-makeup.md)) 
- ([preview](generic/putting-on-clown-makeup/putting-on-clown-makeup.md)) 
- ([image](generic/putting-on-clown-makeup/putting-on-clown-makeup.jpg))
+ ([preview](putting-on-clown-makeup/putting-on-clown-makeup.md)) 
+ ([image](putting-on-clown-makeup/putting-on-clown-makeup.jpg))
 
 **Reminisce**: A 4 panel comic of a post-apocalyptic post-internet world, where two survivors flash back on the best parts of the internet
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/reminisce/reminisce.md))
