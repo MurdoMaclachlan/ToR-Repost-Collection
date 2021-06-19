@@ -115,6 +115,11 @@
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/pupil-dilation/pupil-dilation.md)) 
  ([preview](pupil-dilation/pupil-dilation.md)) 
  ([image](pupil-dilation/pupil-dilation.jpg))
+ 
+**Putting on Clown Makeup**: 4 images of a person putting on clown makeup. Text beside each image.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/Putting on Clown Makeup/putting-on-clown-makeup.md)) 
+ ([preview](generic/Putting on Clown Makeup/putting-on-clown-makeup.md)) 
+ ([image](generic/Putting on Clown Makeup/putting-on-clown-makeup.jpg))
 
 **Reminisce**: A 4 panel comic of a post-apocalyptic post-internet world, where two survivors flash back on the best parts of the internet
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/reminisce/reminisce.md))
