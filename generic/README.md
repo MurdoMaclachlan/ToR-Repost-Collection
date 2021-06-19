@@ -85,6 +85,11 @@
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/hard-to-swallow-pills/hard-to-swallow-pills.md)) 
  ([preview](hard-to-swallow-pills/hard-to-swallow-pills.md)) 
  ([image](hard-to-swallow-pills/hard-to-swallow-pills.png))
+ 
+**I Am Once Again Asking For Your Financial Support**: A meme which is a screenshot of Bernie Sanders from an ad, and text.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/i-am-once-again-asking-for-your-financial-support/i-am-once-again-asking-for-your-financial-support.md)) 
+ ([preview](i-am-once-again-asking-for-your-financial-support/i-am-once-again-asking-for-your-financial-support.md)) 
+ ([image](i-am-once-again-asking-for-your-financial-support/i-am-once-again-asking-for-your-financial-support.jpg))
 
 **I'm in danger**: A meme in which Ralph from The Simpsons is sitting in the back of a bus saying I'm in danger 
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/im-in-danger/im-in-danger.md)) 
