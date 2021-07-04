@@ -34,4 +34,4 @@ Files with markdown formatting have a source and a preview, files that are pure 
 **Soyjaks vs Chads**: Description pending
  (source: [generic](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/wojak/soyjaks-vs-chads/soyjaks-vs-chads.md), [gender-jaks](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/wojak/soyjaks-vs-chads/gender-jaks.md))
  (preview: [generic](soyjaks-vs-chads/soyjaks-vs-chads.md), [gender-jaks](soyjaks-vs-chads/gender-jaks.md))
- (image: [generic](soyjaks-vs-chads/Soyjaks-vs-Chads.jpg), [gender-jaks](soyjaks-vs-chads/gender-jaks.jpg))
+ (image: [generic](soyjaks-vs-chads/soyjaks-vs-chads.jpg), [gender-jaks](soyjaks-vs-chads/gender-jaks.jpg))
