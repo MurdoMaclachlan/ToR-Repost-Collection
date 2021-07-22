@@ -29,7 +29,7 @@ Files with markdown formatting have a source and a preview, files that are pure 
 
 **Single Characters**: A collection of miscellaneous single characters, not specifically part of a single meme template. Can be incorporated/adjusted as needed.
  (source: [brainlet](single-characters/brainlet.txt), [daddy](single-characters/daddy.txt), [grug](single-characters/grug.txt), [mommy](single-characters/mommy.txt), [norf-fc](single-characters/norf-fc.txt), [nujak](single-characters/nujak.txt), [pink-jak](single-characters/pink-jak.txt), [poljak](single-characters/poljak.txt), [princess](single-characters/princess-jak.txt))
- (image: [brainlet](single-characters/brainlet-jak.jpg), [daddy](single-characters/daddy.jpg), [grug](single-characters/grug-jak.jpg), [mommy](single-characters/mommy-jak.jpg), [norf-fc](single-characters/norf-fc.jpg), [nujak](single-characters/nujak.jpg), [pink-jak](single-characters/pink-jak.jpg), [poljak](single-characters/poljak-jak.jpg), [princess](single-characters/princess-jak.jpg))
+ (image: [brainlet](single-characters/brainlet-jak.jpg), [daddy](single-characters/daddy.jpg), [grug](single-characters/grug jak.jpg), [mommy](single-characters/mommy-jak.jpg), [norf-fc](single-characters/norf-fc.jpg), [nujak](single-characters/nujak.jpg), [pink-jak](single-characters/pink-jak.jpg), [poljak](single-characters/poljak jak.jpg), [princess](single-characters/princess-jak.png))
 
 **Soyjaks vs Chads**: Description pending
  (source: [generic](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/wojak/soyjaks-vs-chads/soyjaks-vs-chads.md), [gender-jaks](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/wojak/soyjaks-vs-chads/gender-jaks.md))
