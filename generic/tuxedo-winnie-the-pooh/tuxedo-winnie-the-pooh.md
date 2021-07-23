@@ -2,6 +2,10 @@
 
 ---
 
+[*The meme shows two images of Winnie the Pooh, with text to the right of each image.*]
+
+---
+
 [*On the top row is an image of Winnie the Pooh sitting in a chair, with an unimpressed look. On the right, the text reads:*]
 
 {{REPLACE ME}}
