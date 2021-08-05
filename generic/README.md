@@ -106,6 +106,11 @@
  ([preview](oh-dear-gorgeous/oh-dear-gorgeous.md))
  ([image](oh-dear-gorgeous/oh-dear-gorgeous.png))
 
+**Panik/Kalm**: A three-panelled meme showing a manequinn head in various stages of panic and calm.
+ ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/panik-kalm/panik-kalm.md)) 
+ ([preview](panik-kalm/panik-kalm.md)) 
+ ([image](panik-kalm/panik-kalm.jpg))
+
 **Patrick not my Wallet**: A meme in which Patrick from Spongebob agrees with some statements and then disagrees with the final one.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/patrick-not-my-wallet/patrick-not-my-wallet.md)) 
  ([preview](patrick-not-my-wallet/patrick-not-my-wallet.md)) 
