@@ -2,7 +2,7 @@
 
 ---
 
-[*A slightly blurry image of pikachu, his mouth wide open in an expression of shock.*]
+[*A slightly blurry image of Pikachu, his mouth wide open in an expression of shock.*]
 
 ---
 
