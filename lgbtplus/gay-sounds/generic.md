@@ -2,8 +2,9 @@
 
 ---
 
-[*Image is **Ferris** from Re:Zero. Ferris has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. They appear feminine and have white and blue ribbons in their hair, and a blue collar with a ribbon. {{REPLACE ME}}*]
+[*Image is Ferris from Re:Zero. Ferris has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. They appear feminine and have white and blue ribbons in their hair, and a blue collar with a ribbon.*]
 
+### {{REPLACE ME}}
 
 ---
 
