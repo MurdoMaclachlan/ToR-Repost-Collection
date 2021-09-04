@@ -1,10 +1,10 @@
-*Image Transcription:*
+*Image Transcription: Meme*
 
 ---
 
-[*Image is **Ferris** from Re:Zero. Ferris has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. They appear feminine and have white and blue ribbons in their hair, a blue collar with a ribbon. Ferris is smiling with their mouth half open and a relaxed look on their face.*] 
+[*Image is Ferris from Re:Zero. Ferris has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. They appear feminine and have white and blue ribbons in their hair, a blue collar with a ribbon. Ferris is smiling with their mouth half open and a relaxed look on their face.*] 
 
-###VERY HAPPY GAY SOUNDS
+### VERY HAPPY GAY SOUNDS
 
 ---
 
