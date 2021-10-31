@@ -24,4 +24,4 @@ For a list of my progress with the doc (i.e. what templates I have so far added 
 
 For information regarding wanted templates, see [here](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/blob/master/WANTED_TEMPLATES.md).
 
-If you're struggling to contribute contact **Murdo#0949** on Discord, or e-mail murdo@maclachlans.org.uk.
+If you're struggling to contribute contact **Murdo#0949** on Discord, or e-mail murdomaclachlan@duck.com.
