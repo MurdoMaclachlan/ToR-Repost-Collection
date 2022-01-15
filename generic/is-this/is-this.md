@@ -2,13 +2,19 @@
 
 ---
 
-[*An image of Yutaro Katori/Fighbird (a light-skinned masculine person with dark hair and black glasses, wearing a white top with red collars) from the 1990s Japanese anime TV series The Brave Fighter of Sun Fighbird. Yutaro points at a flying butterfly; both Yutaro and the butterfly have a label (see below), and there is also a subtitle. the background, there is a building that appears light pink but this is likely due to lighting. There is a window and a somewhat large bush.*]
+[*An image of Yutaro Katori/Fighbird (a light-skinned masculine person with dark hair and black glasses, wearing a white top with red collars) from the 1990s Japanese anime TV series The Brave Fighter of Sun Fighbird.*
+
+*Yutaro points at a flying butterfly; both Yutaro and the butterfly have a label (see below), and there is also a subtitle. the background, there is a building that appears light pink but this is likely due to lighting. There is a window and a somewhat large bush.*
+
+*Yutaro and the Butterfly are labelled as follows:*]
 
 **Yutaro**: {{REPLACE ME}}
 
 **Butterfly**: {{REPLACE ME}}
 
-**Subtitle**: Is this {{REPLACE ME}}
+[*The image is subtitled:*]
+
+Is this {{REPLACE ME}}
 
 ---
 
