@@ -14,9 +14,7 @@ The original repository was created by **u/VoidCraftedGaming**; much credit to h
 
 [wojak](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki/Directory:-Wojak)
 
-Also see [this google doc](https://docs.google.com/document/d/1COYykgomeJ5CPIPo8zhb8-Z-qUrMH1hUH4VYM3pG6bM/edit) for a long list of crowdsourced templates. The formats they've used are different from ToR's, but I'm slowly reformatting them to our templates and incorporating them into the collection.
-
-For a list of my progress with the doc (i.e. what templates I have so far added from it), look [here](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/blob/master/GOOGLE_DOC.md).
+We have an ongoing effort to adapt a Google doc. [See here for more details](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki/The-Google-Document).
 
 ---
 
