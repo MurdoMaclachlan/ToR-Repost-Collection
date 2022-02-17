@@ -2,17 +2,17 @@
 
 ### An ***unofficial*** repository of templates collated by volunteers for transcribing reddit posts. 
 
-This allows us to transcribe with more ease ~~and get gammas faster~~, provide image transcriptions for those with vision impairments/ who use text-to-speech software, and those on mobile or with limited data.
+Head to the [home page of the wiki](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki) for better-written instructions than you'll find in this README.
 
 The original repository was created by **u/VoidCraftedGaming**; much credit to her. **u/MurdoMaclachlan** forked the repository after activity in it died.
 
 # Directory
 
-[Generic](generic/README.md)
+[Generic](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki/Directory:-Generic)
 
-[LGBT+](lgbtplus/README.md)
+[LGBT+](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki/Directory:-LGBT-)
 
-[wojak](wojak/README.md)
+[wojak](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki/Directory:-Wojak)
 
 Also see [this google doc](https://docs.google.com/document/d/1COYykgomeJ5CPIPo8zhb8-Z-qUrMH1hUH4VYM3pG6bM/edit) for a long list of crowdsourced templates. The formats they've used are different from ToR's, but I'm slowly reformatting them to our templates and incorporating them into the collection.
 
