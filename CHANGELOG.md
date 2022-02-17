@@ -1,3 +1,7 @@
+## Unreleased
+
+- Updated the "Blue Button Rush" template to include a header specification, more up-to-date formatting, and remove pointless skin-tone specification. (@MurdoMaclachlan)
+
 ## 2022-02-17
 
 - Changed all templates to the new footer. (@MurdoMaclachlan)

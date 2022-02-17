@@ -1,10 +1,12 @@
-*Image Transcription:*
+*Image Transcription: Meme*
 
 ---
 
-[*Image of light skinned hand ("{{REPLACE ME}}")  blurred, indicating it is moving fast towards a blue button on a silvery metallic slab, with darker, silver, circular screws in the corners  ("{{REPLACE ME}}").*]
+[*Image of a hand, blurred, indicating it is moving fast towards a blue button on a silvery metallic slab, with darker silver, circular screws in the corners. They are labelled as follows:*]
 
+**Hand**: {{REPLACE ME}}
 
+**Button**: {{REPLACE ME}}
 
 ---
 
