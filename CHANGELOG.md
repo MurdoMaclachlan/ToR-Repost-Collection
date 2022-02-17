@@ -1,4 +1,4 @@
-### 2022-02-17
+## 2022-02-17
 
 - Changed all templates to the new footer. (@MurdoMaclachlan)
 - The following templates were also updated:
@@ -7,17 +7,17 @@
     - Is This: added paragraphs for readability, corrected subtitle formatting. (@MurdoMaclachlan)
     - Tomboy: fixed heading formatting. (@MurdoMaclachlan)
 
-### 2021-09-10
+## 2021-09-10
 
 - Added the "Panik/Kalm" template. (@MurdoMaclachlan)
 - Fixed grammatical error in the "Surprised Pikachu" template. (@MurdoMaclachlan)
 
-### 2021-08-05
+## 2021-08-05
 
 - Added a short summary section to the "Tuxedo Winnie the Pooh" template. (@MurdoMaclachlan)
 - Fixed broken image links in the Wojak README. (@MurdoMaclachlan)
 
-### 2021-07-01
+## 2021-07-01
 
 - The following templates were added:
     - Anakin and Padmé (/u/knightttime)
@@ -26,7 +26,7 @@
     - See No God (@MurdoMaclachlan)
 - Improved consistency with newer templates for the "See Nobody Cares" template. (@MurdoMaclachlan)
 
-### 2021-06-04
+## 2021-06-04
 
 - The following templates were added:
     - Blue Shirt Computer Guys (/u/KomaedaEatsBagels)
@@ -39,7 +39,7 @@
         - Miscellaneous: Brainlet, Daddy, Grug, Mommy, Norf FC, Nujak, Pink, Poljak, Princess (/u/KomaedaEatsBagels)
     - Soyjaks vs Chads (/u/KomaedaEatsBagels)
 
-### 2021-05-01
+## 2021-05-01
 
 - The following templates were added:
     - Oh Dear, Gorgeous (/u/metaquarx)
@@ -54,7 +54,7 @@
     - Wish All a Very: changed two placeholders to be consistent parts of the format. (@MurdoMaclachlan)
 - Alphabeticised variation links for Drake template. (@MurdoMaclachlan)
 
-### 2021-04-02
+## 2021-04-02
 
 - The following templates were added:
     - John Mulaney Reactions (@MurdoMaclachlan)
@@ -63,7 +63,7 @@
     - You Guys Just (@MurdoMaclachlan)
 - Renamed the traa directory to lgbtplus as it includes LGBT+ memes that are not necessarily specifically trans-related. (@MurdoMaclachlan)
 
-### 2021-03-01
+## 2021-03-01
 
 - The following templates were added:
     - Squidward's lounge chair (/u/Tim3303)
@@ -71,7 +71,7 @@
     - This is worthless (@MurdoMaclachlan)
     - What the hell is this (/u/Tim3303)
 
-### 2021-02-01
+## 2021-02-01
 
 - The following templates were added:
     - Bernie Sanders Iowa Victor Speech Reactions (@MurdoMaclachlan)
