@@ -1,29 +1,41 @@
-*Image Transcription: Expanding Brain Meme*
+*Image Transcription: Meme*
 
 ---
 
-[*Level 1: "Small" Brain*]
+\[*Paneled meme featuring text paired with images of a brain where it becomes increasingly glowing.*]
+
+---
+
+**Panel 1**
 
 {{REPLACE ME}}
 
+\[*Image of an X-ray of a person facing the left of the panel. Their brain is visible in the picture, and it is substantially smaller than the person's skull.*]
+
 ---
 
-[*Level 2: "Normal" Brain, some glowing areas*]
+**Panel 2**
 
 {{REPLACE ME}}
 
+\[*Blue diagram of a person facing the right of the panel; their brain has several glowing areas lit up in purple.*]
+
 ---
 
-[*Level 3: "Expanding" Brain, completely glowing*]
+**Panel 3**
 
 {{REPLACE ME}}
 
+\[*The person's brain is now almost completely glowing; it emits bright white light and the image is now filtered in red-brown.*]
+
 ---
 
-[*Level 4: "Maximum Expansion" Brain, completely glowing, shooting "glowing brainwaves" out of skull*]
+**Panel 4**
 
 {{REPLACE ME}}
 
+\[*Diagram of a person now facing the bottom left corner of the panel; the brain glows bright blue, and it shoots out bright blue, pulsing beams of light.*]
+
 ---
 
-^^I'm&#32;a&#32;human&#32;volunteer&#32;content&#32;transcriber&#32;for&#32;Reddit&#32;and&#32;you&#32;could&#32;be&#32;too!&#32;[If&#32;you'd&#32;like&#32;more&#32;information&#32;on&#32;what&#32;we&#32;do&#32;and&#32;why&#32;we&#32;do&#32;it,&#32;click&#32;here!](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)
+^^I'm&#32;a&#32;human&#32;volunteer&#32;content&#32;transcriber&#32;and&#32;you&#32;could&#32;be&#32;too!&#32;[If&#32;you'd&#32;like&#32;more&#32;information&#32;on&#32;what&#32;we&#32;do&#32;and&#32;why&#32;we&#32;do&#32;it,&#32;click&#32;here!](https://www.reddit.com/r/TranscribersOfReddit/wiki/index)

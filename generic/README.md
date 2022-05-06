@@ -69,7 +69,7 @@
 **Expanding Brain (long version)**: Same as Expanding Brain but with 6 rows instead of 4. 
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/expanding-brain/expanding-brain-long.md)) 
  ([preview](expanding-brain/expanding-brain-long.md)) 
- ([image](expanding-brain/expanding-brain-long.jpg))
+ ([image](expanding-brain/expanding-brain-long.webp))
 
 **Feelings of Power**: A graph used to display different things that give people feelings of power, usually with the last and most powerful entry being something unusual or humorous.
  ([source](https://raw.githubusercontent.com/MurdoMaclachlan/ToR-Repost-Collection/master/generic/feelings-of-power/feelings-of-power.md))
