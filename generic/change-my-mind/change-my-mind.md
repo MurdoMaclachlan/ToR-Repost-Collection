@@ -2,13 +2,11 @@
 
 ---
 
-[*A man in a blue top is sat at a desk, outside. He is leaning back in his chair, with a hot beverage in his hand. The table has a sign attached reading:*]
+[*A man in a blue top is sat at a desk, outside. He is leaning back in his chair, with a hot beverage in his hand. The table has a sign attached with two lines of text, separated by a line, reading:*]
 
-# {{REPLACE ME}}
+## {{REPLACE ME}}
 
----
-
-# CHANGE MY MIND
+## CHANGE MY MIND
 
 ---
 

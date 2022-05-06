@@ -1,8 +1,12 @@
 ## 2022-05-06
 
-- Updated the "Expanding Brain" template to improve its format and descriptions, and add one extra panel to the long variant. (/u/seeroflights, /u/kelb4n, @MurdoMaclachlan)
-- Updated the "Soyjaks vs Chads" and "Gender Jaks" formats to update and improve formatting and descriptions. (@MurdoMaclachlan)
-- Updated the "Blue Button Rush" template to include a header specification, more up-to-date formatting, and remove pointless skin-tone specification. (@MurdoMaclachlan)
+- The following templates were updated:
+    - Blue Button Rush: included a header specification, more up-to-date formatting, and removed pointless skin-tone specification. (@MurdoMaclachlan)
+    - Change My Mind: reformatted to remove use of a separator within text transcription. (@MurdoMaclachlan)
+    - Complex Mathematics: removed empty lines after image description. (@MurdoMaclachlan)
+    - Drake: deleted unused 'drake.md' file, which seemed to be a clone of 'drake-table-conscise.md'. (@MurdoMaclachlan)
+    - Expanding Brain: improved formatting and descriptions and added one extra panel to the long variant. (/u/seeroflights, /u/kelb4n, @MurdoMaclachlan)
+    - Soyjaks vs Chads, Gender Jaks: updated formatting and descriptions. (@MurdoMaclachlan)
 
 ## 2022-02-17
 
