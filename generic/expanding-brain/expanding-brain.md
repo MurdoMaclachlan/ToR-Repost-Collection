@@ -1,28 +1,40 @@
-*Image Transcription: Expanding Brain Meme*
+*Image Transcription: Meme*
 
 ---
 
-[*Level 1: "Small" Brain*]
-
-{{REPLACE ME}}
+\[*Paneled meme featuring text paired with images of a brain where it becomes increasingly glowing.*]
 
 ---
 
-[*Level 2: "Normal" Brain, some glowing areas*]
+**Panel 1**
 
 {{REPLACE ME}}
+
+\[*Image of an X-ray of a person facing the left of the panel. Their brain is visible in the picture, and it is substantially smaller than the person's skull.*]
 
 ---
 
-[*Level 3: "Expanding" Brain, completely glowing*]
+**Panel 2**
 
 {{REPLACE ME}}
+
+\[*Blue diagram of a person facing the right of the panel; their brain has several glowing areas lit up in purple.*]
 
 ---
 
-[*Level 4: "Maximum Expansion" Brain, completely glowing, shooting "glowing brainwaves" out of skull*]
+**Panel 3**
 
 {{REPLACE ME}}
+
+\[*The person's brain is now almost completely glowing; it emits bright white light and the image is now filtered in red-brown.*]
+
+---
+
+**Panel 4**
+
+{{REPLACE ME}}
+
+\[*Diagram of a person now facing the bottom left corner of the panel; the brain glows bright blue, and it shoots out bright blue, pulsing beams of light.*]
 
 ---
 
