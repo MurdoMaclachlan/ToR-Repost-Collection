@@ -1,5 +1,6 @@
-## Unreleased
+## 2022-05-06
 
+- Updated the "Expanding Brain" template to improve its format and descriptions, and add one extra panel to the long variant. (/u/seeroflights, /u/kelb4n, @MurdoMaclachlan)
 - Updated the "Blue Button Rush" template to include a header specification, more up-to-date formatting, and remove pointless skin-tone specification. (@MurdoMaclachlan)
 
 ## 2022-02-17
