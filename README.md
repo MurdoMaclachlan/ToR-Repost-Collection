@@ -1,6 +1,6 @@
 # Templates for [Transcribers of Reddit](https://reddit.com/r/transcribersofreddit)
 
-### An ***unofficial*** repository of templates collated by volunteers for transcribing reddit posts. 
+### An ***unofficial*** repository of templates collated by volunteers for transcribing reddit posts. 
 
 Head to the [home page of the wiki](https://github.com/MurdoMaclachlan/ToR-Repost-Collection/wiki) for better-written instructions than you'll find in this README.
 

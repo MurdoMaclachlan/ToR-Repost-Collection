@@ -2,13 +2,19 @@
 
 ---
 
-**Top Half**:
+[*The image is a two-panelled meme, each panel consisting of text with an illustration of two people beneath it.*]
 
-[*This half is captioned, 'Girls'. A blonde girl in a daisy-print blue dress faces the left, while a girl with a black-haired bob and black choker faces the right. Underneath the blond girl is the text '{{REPLACE ME}}', while underneath the black-haired girl is the text '{{REPLACE ME}}'.*]
+---
 
-**Bottom Half**:
+## {{REPLACE ME}}
 
-[*This half is captioned, 'Boys:'. On the left, a blond, bearded man with meticulously manicured hair faces the right and gazes calmly. On the right, an identical man (only flipped horizontally) stares him in the eyes. Underneath the man on the left is the text '{{REPLACE ME}}', while underneath the man on the right is the text '{{REPLACE ME}}'.*]
+[*A blonde girl in a daisy-print blue dress faces the left, while a girl with a black-haired bob and black choker faces the right. Underneath the blond girl is the text '{{REPLACE ME}}', while underneath the black-haired girl is the text '{{REPLACE ME}}'.*]
+
+---
+
+## {{REPLACE ME}}
+
+[*On the left, a blond, bearded man with meticulously manicured hair faces the right and gazes calmly. On the right, an identical man, flipped horizontally, stares him in the eyes. Underneath the man on the left is the text '{{REPLACE ME}}', while underneath the man on the right is the text '{{REPLACE ME}}'.*]
 
 ---
 
