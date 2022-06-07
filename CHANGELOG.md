@@ -1,3 +1,8 @@
+## 2022-06-06
+
+- Removed a trailing "." from the description of the first panel in the "Gru Flipchart" format. (@MurdoMaclachlan)
+- Fixed broken link to the Drake example image in navigation. (@MurdoMaclachlan, thanks to /u/the_dream_weaver_)
+
 ## 2022-05-06
 
 - The following templates were updated:
