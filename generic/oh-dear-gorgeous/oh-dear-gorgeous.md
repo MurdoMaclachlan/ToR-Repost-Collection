@@ -2,19 +2,19 @@
 
 ---
 
-[*The meme consists of two images, side-by-side, each with a title above it, as follows:*]
+\[*The meme consists of two images, side-by-side, each with a title above it, as follows:*]
 
 ---
 
 {{REPLACE ME}}
 
-[*An image of Gordon Ramsay consoling and hugging a child. It is captioned, "Oh dear, oh dear. Gorgeous."*]
+\[*An image of Gordon Ramsay consoling and hugging a child. It is captioned, "Oh dear, oh dear. Gorgeous."*]
 
 ---
 
 {{REPLACE ME}}
 
-[*An image of Gordon Ramsay shouting. It is captioned, "You fucking donkey."*]
+\[*An image of Gordon Ramsay shouting. It is captioned, "You fucking donkey."*]
 
 ---
 

@@ -2,25 +2,25 @@
 
 ---
 
-[*The meme shows three sections of text with various images of a mannequin head with a long neck, protruding face, wide eyes and raised eyebrows to the right. Each image also has a single word next to the bottom right of the head.*]
+\[*The meme shows three sections of text with various images of a mannequin head with a long neck, protruding face, wide eyes and raised eyebrows to the right. Each image also has a single word next to the bottom right of the head.*]
 
 ---
 
 {{ REPLACE ME }}
 
-[*The mannequin appears disturbed and is holding its head with two disembodied hands. The text at the bottom right reads:*] Panik
+\[*The mannequin has wide eyes with raised eyebrows and is holding its head with two disembodied hands. The text at the bottom right reads, "Panik".*]
 
 ---
 
 {{ REPLACE ME }}
 
-[*The mannequin now appears composed, its eyebrows settled and the hands gone. The text at the bottom right reads:*] Kalm
+\[*The mannequin's eyebrows have now settled and the hands are gone. The text at the bottom right reads, "Kalm".*]
 
 ---
 
 {{ REPLACE ME }}
 
-[*The mannequin once again looks disturbed and is holding its head. The image is blurred, as if the mannequin is shaking. The text at the bottom right is blurry as well, and reads:*] Panik
+\[*The mannequin is once more holding its head, its eyes wide again. The image is blurred, as is the text at the bottom right, which reads, "Panik".*]
 
 ---
 

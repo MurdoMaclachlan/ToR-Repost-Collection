@@ -4,7 +4,7 @@
 
 **1**
 
-[*light skinned masculine person with grey hair and a white shirt and grey pants in the foetal position with their head to the right..*]
+\[*light skinned masculine person with grey hair and a white shirt and grey pants in the foetal position with their head to the right..*]
 
 **Caption**: **LIE** DOWN
 
@@ -12,7 +12,7 @@
 
 **2**
 
-[*Zoomed in to their face, which is crying*]
+\[*Zoomed in to their face, which is crying*]
 
 **Caption**: **TRY** NOT TO CRY
 
@@ -21,7 +21,7 @@
 
 **3**
 
-[*Same as first except facing left and a tissue under their face. There is also a metal pole in the bottom right.*]
+\[*Same as first except facing left and a tissue under their face. There is also a metal pole in the bottom right.*]
 
 **Caption**: **CRY** A LOT
 

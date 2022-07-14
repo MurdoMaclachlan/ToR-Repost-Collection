@@ -2,7 +2,7 @@
 
 ---
 
-[*Image of a bedroom with a computer and a bed with a person lying down face down. The image is tinted dark.*]
+\[*Image of a bedroom with a computer and a bed with a person lying down face down. The image is tinted dark.*]
 
 Maybe I'll just die.
 

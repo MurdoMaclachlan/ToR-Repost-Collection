@@ -4,7 +4,7 @@
 
 **Panel One**
 
-[*Person getting his entire face covered by white makeup.*]
+\[*Person getting his entire face covered by white makeup.*]
 
 {{REPLACE ME}}
 
@@ -12,7 +12,7 @@
 
 **Panel Two**
 
-[*Person getting red clown lipstick put on. He also has blue and yellow shapes around his eyes.*]
+\[*Person getting red clown lipstick put on. He also has blue and yellow shapes around his eyes.*]
 
 {{REPLACE ME}}
 
@@ -20,7 +20,7 @@
 
 **Panel Three**
 
-[*Person getting a multi-color clown wig put on. The wig is purple, red, orange, yellow, green, and blue.*]
+\[*Person getting a multi-color clown wig put on. The wig is purple, red, orange, yellow, green, and blue.*]
 
 {{REPLACE ME}}
 
@@ -28,7 +28,7 @@
 
 **Panel Four**
 
-[*Person smiling with all the makeup on*]
+\[*Person smiling with all the makeup on*]
 
 {{REPLACE ME}}
 

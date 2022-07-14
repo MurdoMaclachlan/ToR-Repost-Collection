@@ -2,7 +2,7 @@
 
 ---
 
-[*Image is Ferris from Re:Zero. Ferris has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. They appear feminine and have white and blue ribbons in their hair, a blue collar with a ribbon. They are holding back tears, and they are frowning.*]
+\[*Image is Ferris from Re:Zero. Ferris has light skin, brown hair cut into a bob with a V-shaped fringe, brown cat ears and yellow eyes. They appear feminine and have white and blue ribbons in their hair, a blue collar with a ribbon. They are holding back tears, and they are frowning.*]
 
 ### SAD GAY SOUNDS
 

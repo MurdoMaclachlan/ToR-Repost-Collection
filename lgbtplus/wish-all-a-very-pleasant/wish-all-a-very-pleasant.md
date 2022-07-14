@@ -2,7 +2,7 @@
 
 ---
 
-[*An image of Bugs Bunny in a suit, with a flower at his lapel and text to his left. His eyes are half-closed in a casual manner. The text reads:*]
+\[*An image of Bugs Bunny in a suit, with a flower at his lapel and text to his left. His eyes are half-closed in a casual manner. The text reads:*]
 
 *i wish all*
 

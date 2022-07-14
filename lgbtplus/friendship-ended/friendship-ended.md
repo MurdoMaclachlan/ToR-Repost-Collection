@@ -2,7 +2,7 @@
 
 ---
 
-[*Image with two images of food in the bottom left and right corners ({{REPLACE ME}}, respectively) with green crosses over them. In the centre of the image, there is a picture of a light-skinned masculine person with their head replaced with {{REPLACE ME}} shaking hands with a white robe with the head being replaced with {{REPLACE ME}}. There are curtains in the background. The text is a gradient - red to green, except "Now" is purple, and edited text is __bold__, and it is {{TEXT STYLE}}.*]
+\[*Image with two images of food in the bottom left and right corners ({{REPLACE ME}}, respectively) with green crosses over them. In the centre of the image, there is a picture of a light-skinned masculine person with their head replaced with {{REPLACE ME}} shaking hands with a white robe with the head being replaced with {{REPLACE ME}}. There are curtains in the background. The text is a gradient - red to green, except "Now" is purple, and edited text is __bold__, and it is {{TEXT STYLE}}.*]
 
 Friendship ended with **{{REPLACE ME}}**
 

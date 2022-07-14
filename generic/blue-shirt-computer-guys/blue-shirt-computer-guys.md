@@ -2,19 +2,19 @@
 
 ---
 
-[*Two people in blue shirts with white peach logos on them bend over a computer and look at it confusedly. The white peach logos have the silhouette of a hand overlaid on top of them. They both wear lanyards with this logo as well, and the back of the computer lights up to reveal the peach logo (much like the apple logo).*]
+\[*Two people in blue shirts with white peach logos on them bend over a computer and look at it confusedly. The white peach logos have the silhouette of a hand overlaid on top of them. They both wear lanyards with this logo as well, and the back of the computer lights up to reveal the peach logo.*]
 
 ---
 
-[*Person A does something unseen to the computer with a focused look on their face. They look to Person B, who is agape.*]
+\[*Person A does something unseen to the computer with a focused look on their face. They look to Person B, who is agape.*]
 
 ---
 
-[*Dramatically and with much sarcasm, Person B puts their hand to their forehead in shock as the camera floats towards them.*]
+\[*Person B puts their hand to their forehead in shock as the camera floats towards them.*]
 
 ---
 
-[*Person A is now out of frame. Person B gestures to the computer with a thin-lipped smile while holding eyes with Person A, presumably to say, 'It was really that simple, huh?'*]
+\[*Person A is now out of frame. Person B gestures to the computer with a thin-lipped smile while holding eyes with Person A.*]
 
 ---
 

@@ -1,10 +1,8 @@
-*Image Trancription: Excuse Me What the Fuck Meme*
+*Image Trancription: Meme*
 
 ---
 
-{{REPLACE ME}}
-
-[*Vault Boy, with dislocated shoulders and neck, looking down with a blank smile one his face (indicating he's confused), hands pointing to the front; is saying "excuse me what the fuck". Background is a vertical spectrum of green to dark blue.*]
+\[*Vault Boy, with dislocated shoulders and neck, looking down with a blank smile one his face, hands pointing to the front, on a background of a vertical spectrum of green to dark blue. Small text beside him reads "excuse me what the fuck".*]
 
 ---
 

@@ -2,64 +2,71 @@
 
 ---
 
-[*Patrick 'Not My Wallet Meme':* ***Patrick*** *from Children's TV show* ***Spongebob Squarepants.****] 
-
-[*Patrick is a large starfish with green pants that have flowers, and no shirt. The comic is set in the ocean, and the background and floor are blue. Man Ray is a red masculine villain with a blue mask that covers their shoulders and they wear blue gloves and socks. The comic zooms in to the person who is talking.*]
-
-
-**1**
-
-[*Man Ray holding up an ID that reads PATricK StaR*]
-
-Man Ray: {{REPLACE ME}}
+\[*An eight-panelled meme showing images of the characters Patrick and Man Ray from the children's TV show "Spongebob Squarepants". Patrick is a large starfish with flower-patterened green pants and no shirt; Man Ray is a red humanoid with a blue mask that covers their shoulders and blue gloves.*]
 
 ---
 
-**2**
+**Panel 1**
 
-[*Patrick is nodding, saying yes semi-mindlessly*]
+\[*A close up of Man Ray's hand holding an ID card with a picture of Patrick on it. Text to the right of the image reads "PATricK StaR".*]
 
-
-Patrick: Yup
-
----
-
-**3**
-
-[*Man Ray holding the same ID, zoomed out.*]
-
-Man Ray: {{REPLACE ME}}
+**Man Ray**: {{REPLACE ME}}
 
 ---
 
-**4**
+**Panel 2**
 
-[*Patrick is nodding, saying yes semi-mindlessly*]
+\[*Focus shifts to Patrick, who is nodding and smiling, his eyes half-shut.*]
 
-Patrick:  Yup
-
----
-
-**5**
-
-Man Ray:  {{REPLACE ME}}
-
----
-**6**
-
-Patrick:  That makes sense to me.
+**Patrick**: Yup
 
 ---
 
-**7**
+**Panel 3**
+
+\[*Focus shifts to Man Ray, still holding the ID, with a scowling face and red eyes and mouth.*]
+
+**Man Ray**: {{REPLACE ME}}
+
+---
+
+**Panel 4**
+
+\[*Focus shifts back to Patrick, whose expression is the same as before.*]
+
+**Patrick**:  Yup
+
+---
+
+**Panel 5**
+
+\[*Focus shifts back to Man Ray, who is now smiling and looking at a wallet, which he holds in his other hand.*]
 
 Man Ray:  {{REPLACE ME}}
 
 ---
 
-**8**
+**Panel 6**
 
-Patrick:  {{REPLACE ME}}
+\[*Zoomed out, showing both characters facing each other. Man Ray holds the wallet out with a scowl. Patrick's eyes are half-closed and his mouth is downturned.*]
+
+**Patrick**:  That makes sense to me.
+
+---
+
+**Panel 7**
+
+\[*Man Ray's scowl intensifies as he holds the wallet closer to Patrick.*]
+
+**Man Ray**:  {{REPLACE ME}}
+
+---
+
+**Panel 8**
+
+\[*Patrick's eyes open fully and he stares at the wallet as Man Ray's scowl intensifies even further.*]
+
+**Patrick**:  {{REPLACE ME}}
 
 ---
 

@@ -1,12 +1,8 @@
-*Image Transcription:*
+*Image Transcription: GIF*
 
 ---
 
-[*GIF of Homer (Yellow skinned masculine person from The Simpsons with a white shirt and blue pants. ) retreating in to a green bush. There is text at the top and bottom of the gif, which reads:*]
-
-Top: {{REPLACE ME}}
-
-Bottom: {{REPLACE ME}}
+[*GIF of the character Homer, from "The Simpsons", with a blank expression punctuated by wide eyes and contracted pupils, retreating in to a hedge.*]
 
 ---
 

@@ -2,27 +2,27 @@
 
 ---
 
-[*Gru, the long-nosed protagonistic villain from Despicable Me, presents to the camera with passion, pointing into the air. Behind him is a flipchart. The text on the flipchart reads:*]
+\[*Gru, the long-nosed protagonist of the "Despicable Me" franchise, presents to the camera, pointing into the air and smiling. Behind him is a flipchart with text reading:*]
 
-## {{REPLACE ME}}
-
----
-
-[*Gru is still presenting passionately; he has his hand in a c shape indicating a small amount. The text now reads:*]
-
-## {{REPLACE ME}}
+{{REPLACE ME}}
 
 ---
 
-[*Gru now has his hands pointing down, still presenting. The text now reads:*]
+\[*Still presenting, Gru has his hand in a C shape and his head down as he peers at the gap between his fingers. The text now reads:*]
 
-## {{REPLACE ME}}
+{{REPLACE ME}}
 
 ---
 
-[*Gru looks back to the flipchart in a double-take, looking confused and exasperated. The text still reads:*]
+\[*Gru now has his hands pointing down, still presenting. The text now reads:*]
 
-## {{REPLACE ME}}
+{{REPLACE ME}}
+
+---
+
+\[*Gru looks back to the flipchart in a double-take, his eyes round and wide and his mouth downturned. The text still reads:*]
+
+{{REPLACE ME}}
 
 ---
 

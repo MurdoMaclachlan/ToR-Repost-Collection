@@ -2,7 +2,7 @@
 
 ---
 
-[*A still from "Family Guy". Noah, from the Biblical story of Noah's Ark, is standing in front of the Ark and looking angrily at an elephant (labelled {{REPLACE ME}}) and a penguin (labelled {{REPLACE ME}}). Noah is pointing towards a small creature with an elephant's head and a penguin's body, labelled {{REPLACE ME}}, while the elephant and penguin look towards him with a mix of boredom and annoyance. The subtitles read:*]
+\[*A still from "Family Guy". Noah, from the Biblical story of Noah's Ark, is standing in front of the Ark and looking angrily at an elephant (labelled {{REPLACE ME}}) and a penguin (labelled {{REPLACE ME}}). Noah is pointing towards a small creature with an elephant's head and a penguin's body, labelled {{REPLACE ME}}, while the elephant and penguin look towards him with a mix of boredom and annoyance. The subtitles read:*]
 
 What the hell is this?
 

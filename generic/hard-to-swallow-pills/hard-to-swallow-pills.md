@@ -1,15 +1,10 @@
-*Image Transcription: Illustrations*
+*Image Transcription: Meme*
 
 ---
 
-[*First image, a hand holding a big pill bottle. The label reads:*]
+\[*An image of a hand holding a pill bottle, with another handing pointing to the label, which reads "hard to swallow pills".*]
 
-**hard to swallow pills**
-
-[*Second, a hand with three pills in the palm.*]
-
-**{{REPLACE ME}}**
-
+\[*Beneath is another image. The hand that was holding the bottle now holds three pills in its palm, to which the other hand points. The pills are labelled "{{REPLACE ME}}".*]
 
 ---
 

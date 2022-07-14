@@ -2,19 +2,19 @@
 
 ---
 
-[*The image is a two-panelled meme, each panel consisting of text with an illustration of two people beneath it.*]
+\[*The image is a two-panelled meme, each panel consisting of text with an illustration of two people beneath it.*]
 
 ---
 
 ## {{REPLACE ME}}
 
-[*On the left, a bald man is in tears beneath a mask of a smug face. The text '{{REPLACE ME}}' is beneath him. On the right, another bald man who wears glasses is openly sobbing. His mouth is agape and his beard is disheveled. Underneath his head is the text '{{REPLACE ME}}'.*]
+\[*On the left, a bald man is in tears beneath a mask of a smug face. The text '{{REPLACE ME}}' is beneath him. On the right, another bald man who wears glasses is openly sobbing. His mouth is agape and his beard is disheveled. Underneath his head is the text '{{REPLACE ME}}'.*]
 
 ---
 
 ## {{REPLACE ME}}
 
-[*On the left, a blond, bearded man with meticulously manicured hair faces the right and gazes calmly, speaking. Below him is the text '{{REPLACE ME}}'. On the right, an identical man, flipped horizontally, has the text '{{REPLACE ME}}' below him.*]
+\[*On the left, a blond, bearded man with meticulously manicured hair faces the right and gazes calmly, speaking. Below him is the text '{{REPLACE ME}}'. On the right, an identical man, flipped horizontally, has the text '{{REPLACE ME}}' below him.*]
 
 ---
 

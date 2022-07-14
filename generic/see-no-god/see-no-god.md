@@ -2,13 +2,13 @@
 
 ---
 
-[*The first panel shows a photograph of a cat perched like a gargoyle atop a telephone pole, against a blue sky. There is text to the top left that reads:*]
+\[*The first panel shows a photograph of a cat perched like a gargoyle atop a telephone pole, against a blue sky. There is text to the top left that reads:*]
 
 I see no God up here
 
 ---
 
-[*The second panel shows the same image again, but zoomed in with the cat filling up the left half. The whole image is tinted slightly red, and text across the centre reads:*]
+\[*The second panel shows the same image again, but zoomed in with the cat filling up the left half. The whole image is tinted slightly red, and text across the centre reads:*]
 
 Other than ME
 

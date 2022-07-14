@@ -2,13 +2,13 @@
 
 ---
 
-[*Two pictures of John Mulaney in a black suit holding a microphone, corresponding with text to the right of each picture.*]
+\[*Two pictures of John Mulaney in a black suit holding a microphone, corresponding with text to the right of each picture.*]
 
 ---
 
 **Panel 1:**
 
-[*Mulaney is pointing accusingly with an angry expression. The picture is captioned with the dialogue "No!" The text on the right reads:*]
+\[*Mulaney is pointing off-frame and has furrowed eyebrows and an open mouth. The picture is captioned, "No!". The text on the right reads:*]
 
 {{REPLACE ME}}
 
@@ -16,7 +16,7 @@
 
 **Panel 2:**
 
-[*Mulaney's posture is more relaxed, and he has an approving expression on his face. The picture is captioned "Yeah!" The text on the right reads:*]
+\[*Mulaney's posture and expression are more relaxed, and the picture is now captioned, "Yeah!". The text on the right reads:*]
 
 {{REPLACE ME}}
 

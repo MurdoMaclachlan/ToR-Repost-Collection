@@ -2,7 +2,7 @@
 
 ---
 
-[*Image of a hand, blurred, indicating it is moving fast towards a blue button on a silvery metallic slab, with darker silver, circular screws in the corners. The hand is labelled '{{REPLACE ME}}', and the button is labelled '{{REPLACE ME}}'.*]
+\[*Image of a hand, thick with motion blur, next to a blue button on a silvery metallic slab, with darker silver circular screws in the corners. The hand is labelled "{{REPLACE ME}}", and the button is labelled "{{REPLACE ME}}".*]
 
 ---
 

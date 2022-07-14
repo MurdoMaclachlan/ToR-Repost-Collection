@@ -2,7 +2,7 @@
 
 ---
 
-[*A light skinned masculine person wearing a blue shirt and black pants, holding a white cup. Their face is blurred. Their legs are crossed, and they are in front of a fake wooden desk, in front of which is two pieces of paper with the text on them. On the desk, there is a Physics textbook, a computer, and various other things. The wall is white and there are black closed blinds. The floor is carpetted with black and has some stripes on it.*]
+\[*A light skinned masculine person wearing a blue shirt and black pants, holding a white cup. Their face is blurred. Their legs are crossed, and they are in front of a fake wooden desk, in front of which is two pieces of paper with the text on them. On the desk, there is a Physics textbook, a computer, and various other things. The wall is white and there are black closed blinds. The floor is carpetted with black and has some stripes on it.*]
 
 YOU DON'T DESERVE
 

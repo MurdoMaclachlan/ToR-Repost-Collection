@@ -2,9 +2,7 @@
 
 ---
 
-{{REPLACE ME}}
-
-[*Screenshot from a Bernie Sanders fundraising video. Bernie Sanders is wearing a light-brown rain jacket and wire frame glasses. The background has grass with patches of snow, trees without leafs, and a street. The text "I am once again asking for your financial support." is superimposed on the bottom of the image.*]
+\[*Screenshot from a Bernie Sanders fundraising video. Bernie Sanders is wearing a light-brown rain jacket and wire frame glasses. The background has grass with patches of snow, trees without leafs, and a street. The text "I am once again asking for your financial support." is superimposed on the bottom of the image.*]
 
 ---
 

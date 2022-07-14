@@ -42,7 +42,7 @@
 
 {{REPLACE ME}}
 
-[*A picture of a person tilted forwards with a galaxy or explosion inside their head, rays of light and waves of energy radiating out from it.*]
+\[*A picture of a person tilted forwards with a galaxy or explosion inside their head, rays of light and waves of energy radiating out from it.*]
 
 ---
 
@@ -50,7 +50,7 @@
 
 {{REPLACE ME}}
 
-[*A person with a brightly glowing brain, refracted light covering the background, and a partially-obscured circular symbol containing many shapes behind their head.*]
+\[*A person with a brightly glowing brain, refracted light covering the background, and a partially-obscured circular symbol containing many shapes behind their head.*]
 
 ---
 
@@ -58,7 +58,7 @@
 
 {{REPLACE ME}}
 
-[*An entire glowing nervous system inside a body radiating a purple aura, leaning back with their mouth open and their hand stretched out forward.*]
+\[*An entire glowing nervous system inside a body radiating a purple aura, leaning back with their mouth open and their hand stretched out forward.*]
 
 ---
 

@@ -1,11 +1,10 @@
-*Image Transcription:*
+*Image Transcription: Meme*
 
 ---
 
-[*Image of character from the Simpsons (Ralph) sitting on a red chair in a bus. There are no other people visible, but the character is in the last seat. There are clear windows showing the city, the floor is grey, and the bright orange-red chairs are held up by grey poles. Ralph is smiling and is unphased*]
+\[*Image of the character Ralph, from "The Simpsons", sitting in the far back of a bus. Clear windows show a city outside. Ralph sits with a smile, his eyes wide and his pupils contracted. Subtitles read:*]
 
-**Ralph**: (chuckles) 
-I'm in danger
+(chuckles) I'm in danger
 
 ---
 

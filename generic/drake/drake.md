@@ -2,17 +2,17 @@
 
 ---
 
-[*The meme shows two images of rapper Drake, with text to the right of each image.*]
+\[*The meme shows two images of rapper Drake, with text to the right of each image.*]
 
 ---
 
-[*Drake looks displeased, and is using one arm to shield himself from the right side of the frame by curling it around his head, with his hand up in a "not today" manner.*]
+\[*Drake is frowning and has one arm curled up around his head to the right, his hand up in a shielding gesture. The text reads:*]
 
 {{REPLACE ME}}
 
 ---
 
-[*Drake has his head up high, looking pleased, with a finger pointed up and towards the right side of the frame.*] 
+\[*Drake has his head up high and is smiling, with a finger pointed up and towards the right side of the frame. The text reads:*] 
 
 {{REPLACE ME}}
 

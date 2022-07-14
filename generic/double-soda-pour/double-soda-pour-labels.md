@@ -2,13 +2,7 @@
 
 ---
 
-[*The image someone using a soda fountain to pour two different sodas into one exceptionally large cup. The two sodas and the cup have all been given labels, as follows:*]
-
-**Left Soda:** {{REPLACE ME}}
-
-**Right Soda:** {{REPLACE ME}}
-
-**Cup:** {{REPLACE ME}}
+\[*The image someone using a soda fountain to pour two different sodas into one exceptionally large cup. The left soda has been labelled "{{REPLACE ME}}", the right soda "{{REPLACE ME}}", and the cup "{{REPLACE ME}}".*]
 
 ---
 

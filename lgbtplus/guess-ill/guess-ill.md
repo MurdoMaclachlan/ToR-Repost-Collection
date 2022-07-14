@@ -2,7 +2,7 @@
 
 ---
 
-[*Traa-tan: Anime styled  feminine-androgynous person with red jacket, with hands facing outward, mimicking the stock image similar.*]
+\[*Traa-tan: Anime styled  feminine-androgynous person with red jacket, with hands facing outward, mimicking the stock image similar.*]
 
 ## {{REPLACE ME}}
 
