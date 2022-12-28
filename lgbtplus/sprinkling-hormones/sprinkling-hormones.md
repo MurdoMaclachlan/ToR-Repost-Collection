@@ -4,7 +4,7 @@
 
 **Panel 1**
 
-[*Person with a halo on top of their head (God), and an orange robe, looking at a yellow blob that is in the shape of a human on a purple mat.*]
+\[*Person with a halo on top of their head (God), and an orange robe, looking at a yellow blob that is in the shape of a human on a purple mat.*]
 
 **God**: THIS {{GENDER}} IS *ALMOST* DONE.
 
@@ -12,7 +12,7 @@
 
 **Panel 2**
 
-[*God picks up a salt shaker with a green substance in it, labelled "{{WRONG_HORMONE}}"*]
+\[*God picks up a salt shaker with a green substance in it, labelled "{{WRONG_HORMONE}}"*]
 
 **God**: JUST NEEDS A *PINCH* OF {{CORRECT_HORMONE}}
 
@@ -20,13 +20,12 @@
 
 **Panel 3**
 
-[*God sprinkling {{WRONG_HORMONE}} on {{GENDER}} - only a couple of grains.*]
-
+\[*God sprinkling {{WRONG_HORMONE}} on {{GENDER}} - only a couple of grains.*]
 
 ---
 **Panel 4**
 
-[*The salt shaker lid pops off and th man is covered in estrogen.]
+\[*The salt shaker lid pops off and th man is covered in estrogen.]
 
 **God**: that ain't {{CORRECT_HORMONE}}
 
@@ -34,7 +33,7 @@
 
 **Panel 5**
 
-[*God looking down from three clouds, and the {{GENDER}} is below, not visible and is talking.*]
+\[*God looking down from three clouds, and the {{GENDER}} is below, not visible and is talking.*]
 
 **{{GENDER}}**: WHAT IS WRONG WITH MY BODY ??
 

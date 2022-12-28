@@ -1,26 +1,56 @@
+## 2022-07-14
+
+First large batch of template updates and improvements. Around half of the Generic category was updated. More to follow.
+
+- Removed all table variants of multi-panel memes in favour of their more comic-derivative variants, as tables are a highly inadvisable way to transcribe multi-panel memes. (@MurdoMaclachlan)
+- Escaped opening square brackets at the starts of lines. Shouldn't be necessary except when the closing bracket is immediately succeeded by a colon, but it's good practice and safer to do it anyway. (@MurdoMaclachlan)
+- Changed all formats to use double quotation marks. Although both double and single are grammatically correct and acceptable for transcriptions, the difference in which is used simply being one of geography, the Collection should use a single standard. (@MurdoMaclachlan)
+- The following templates were updated:
+  - **Blue Button Rush**: Removed interpration and improved description. (@MurdoMaclachlan)
+  - **Blue Shirt Computer Guys**: Reduced interprations and verbosity. (@MurdoMaclachlan)
+  - **Complex Mathematics**: Removed interprations, improved description, and added header specification. (@MurdoMaclachlan)
+  - **Change My Mind**: Improved description clarity and grammar. (@MurdoMaclachlan)
+  - **Distracted Boyfriend**: Reduced interpretation, removed irrelevant mentions of skin and hair colour, and incorporated labels into image description. (@MurdoMaclachlan)
+  - **Double Soda Pour (Labels Variant)**: Incorporated labels into image description. (@MurdoMaclachlan)
+  - **Drake**: Removed interpretations and improved clarity. (@MurdoMaclachlan)
+  - **Excuse Me What the Fuck**: Removed interpretations, improved description and header. Removed top placeholder, as text above the image isn't necessarily part of the standard format. (@MurdoMaclachlan)
+  - **Feelings of Power**: Replaced table format with an image description. (@MurdoMaclachlan, based on description by /u/seeroflights)
+  - **Gru Flipchart**: Removed interprations, improved description and added quotation marks to name of media.
+  - **Hard to Swallow Pills**: Improved structure and image description. (@MurdoMaclachlan)
+  - **Homer Retreating**: Improved description. Removed top/bottom text inclusion, as that isn't necessarily part of the standard format. (@MurdoMaclachlan)
+  - **I Am Once Again Asking for Your Financial Support**: Removed top placeholder, as text above the image isn't necessarily part of the standard format. (@MurdoMaclachlan)
+  - **I'm in Danger**: Improved image description, greatly decreasing verbosity through removal of irrelevant details. Improved formatting and added header specification. (@MurdoMaclachlan)
+  - **Is This**: Improved structure and description, greatly reducing verbosity via removal of irrelevant details. (@MurdoMaclachlan)
+  - **John Mulaney Reactions**: Improved description, reducing interpreations. (@MurdoMaclachlan)
+  - **Panik/Kalm**: Improved description, removing interpreations. (@MurdoMaclachlan)
+  - **Patrick Not My Wallet** Greatly improved transcription, adding missing descriptions to many panels and fixing formatting. (@MurdoMaclachlan)
+  - **Sayori Drake**: Removed interprations, corrected description and improved clarity. (@MurdoMaclachlan)
+- Removed category-specific READMEs; the wiki should be used instead. (@MurdoMaclachlan)
+
 ## 2022-06-06
 
-- Removed a trailing "." from the description of the first panel in the "Gru Flipchart" format. (@MurdoMaclachlan)
+- The following template was updated:
+  - **Gru Flipchart**: Removed a trailing "." from the description of the first panel. (@MurdoMaclachlan)
 - Fixed broken link to the Drake example image in navigation. (@MurdoMaclachlan, thanks to /u/the_dream_weaver_)
 
 ## 2022-05-06
 
 - The following templates were updated:
-    - Blue Button Rush: included a header specification, more up-to-date formatting, and removed pointless skin-tone specification. (@MurdoMaclachlan)
-    - Change My Mind: reformatted to remove use of a separator within text transcription. (@MurdoMaclachlan)
-    - Complex Mathematics: removed empty lines after image description. (@MurdoMaclachlan)
-    - Drake: deleted unused 'drake.md' file, which seemed to be a clone of 'drake-table-conscise.md'. (@MurdoMaclachlan)
-    - Expanding Brain: improved formatting and descriptions and added one extra panel to the long variant. (/u/seeroflights, /u/kelb4n, @MurdoMaclachlan)
-    - Soyjaks vs Chads, Gender Jaks: updated formatting and descriptions. (@MurdoMaclachlan)
+    - **Blue Button Rush**: included a header specification, more up-to-date formatting, and removed pointless skin-tone specification. (@MurdoMaclachlan)
+    - **Change My Mind**: reformatted to remove use of a separator within text transcription. (@MurdoMaclachlan)
+    - **Complex Mathematics**: removed empty lines after image description. (@MurdoMaclachlan)
+    - **Drake**: deleted unused 'drake.md' file, which seemed to be a clone of 'drake-table-conscise.md'. (@MurdoMaclachlan)
+    - **Expanding Brain**: improved formatting and descriptions and added one extra panel to the long variant. (/u/seeroflights, /u/kelb4n, @MurdoMaclachlan)
+    - **Soyjaks vs Chads**, **Gender Jaks**: updated formatting and descriptions. (@MurdoMaclachlan)
 
 ## 2022-02-17
 
 - Changed all templates to the new footer. (@MurdoMaclachlan)
 - The following templates were also updated:
-    - Change my Mind: fixed heading formatting. (@MurdoMaclachlan)
-    - Enby: fixed heading formatting. (@MurdoMaclachlan)
-    - Is This: added paragraphs for readability, corrected subtitle formatting. (@MurdoMaclachlan)
-    - Tomboy: fixed heading formatting. (@MurdoMaclachlan)
+    - **Change my Mind**: fixed heading formatting. (@MurdoMaclachlan)
+    - **Enby**: fixed heading formatting. (@MurdoMaclachlan)
+    - **Is This**: added paragraphs for readability, corrected subtitle formatting. (@MurdoMaclachlan)
+    - **Tomboy**: fixed heading formatting. (@MurdoMaclachlan)
 
 ## 2021-09-10
 

@@ -4,11 +4,7 @@
 
 # What gives people feeling of power
 
-Name | Bar
-----|---
-{{REPLACE ME}} | \#\#
-{{REPLACE ME}} | \#\#\#
-{{REPLACE ME}} | \#\#\#\#\#\#\#\#\#\#
+\[*Image of a horizontal bar graph. The first bar is small and green and is labelled "{{REPLACE ME}}". The second bar is blue, a little less than twice the size of the green one, and is labelled "{{REPLACE ME}}". The final bar is red, around 3 or 4 times the size of the blue bar, and is labelled "{{REPLACE ME}}".*]
 
 ---
 

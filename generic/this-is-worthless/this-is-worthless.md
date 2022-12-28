@@ -2,13 +2,13 @@
 
 ---
 
-[*A two-panel meme of Dipper, from "Gravity Falls", holding a piece of paper.*]
+\[*A two-panel meme of Dipper, from "Gravity Falls", holding a piece of paper.*]
 
 ---
 
 **Panel 1:**
 
-[*The shot is close up on the piece of paper, so that we can see the writing. The subtitles read "Woah", and the paper reads:*]
+\[*The shot is close up on the piece of paper, so that we can see the writing. The subtitles read "Woah", and the paper reads:*]
 
 {{REPLACE ME}}
 
@@ -16,7 +16,7 @@
 
 **Panel 2:**
 
-[*The shot is further back and shows dipper holding the paper as if to show it to someone, looking up with a smile. The subtitles now read "This is worthless!"*]
+\[*The shot is further back and shows dipper holding the paper as if to show it to someone, looking up with a smile. The subtitles now read "This is worthless!"*]
 
 ---
 

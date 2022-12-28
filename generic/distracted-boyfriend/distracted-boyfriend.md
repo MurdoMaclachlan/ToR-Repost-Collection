@@ -2,13 +2,7 @@
 
 ---
 
-[*Distracted boyfriend meme: A masculine person with light skin and brown hair is walking away from the camera. A feminine person in a red dress walks towards the camera, and the masculine person is looking at her. Their presumed girlfriend (feminine person with light skin and brown, long hair, with a light blue shirt and blue jeans) looks disgusted at this behaviour. Each person has a label:*]
-
-**Boyfriend**: {{REPLACE ME}}
-
-**Girlfriend**: {{REPLACE ME}}
-
-**Red Dress Person**: {{REPLACE ME}}
+\[*A masculine person is walking away from the camera. A feminine person in a red dress walks towards the camera, and the masculine person is looking at her over his shoulder. Beside the masculine person, a feminine person with a light blue shirt and blue jeans looks at the mascline person with a disgusted expression. The masculine person is labelled "{{REPLACE ME}}", the blue shirt person "{{REPLACE ME}}" and the red dress person "{{REPLACE ME}}".*]
 
 ---
 

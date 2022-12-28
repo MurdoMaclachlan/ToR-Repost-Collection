@@ -2,7 +2,7 @@
 
 ---
 
-[*Image of a light-to-dark skinned feminine person with white hair and "hair-ears". They are wearing a white shirt, and the background of the image is a gradient (top right to bottom left: white, red/pink, blue).*]
+\[*Image of a light-to-dark skinned feminine person with white hair and "hair-ears". They are wearing a white shirt, and the background of the image is a gradient (top right to bottom left: white, red/pink, blue).*]
 
 ## DISTRESSED ENBY UTTERANCES
 

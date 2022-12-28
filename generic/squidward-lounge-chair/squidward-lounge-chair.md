@@ -2,13 +2,13 @@
 
 ---
 
-[*Image 1: Squidward Tentacles from "SpongeBob SquarePants", looking happy and planting a sun lounger on the ground:*]
+\[*Image 1: Squidward Tentacles from "SpongeBob SquarePants", looking happy and planting a sun lounger on the ground:*]
 
 {{REPLACE ME}}
 
 ---
 
-[*Image 2: Squidward, looking annoyed and disappointed, and taking the sun lounger away again:*]
+\[*Image 2: Squidward, looking annoyed and disappointed, and taking the sun lounger away again:*]
 
 {{REPLACE ME}}
 

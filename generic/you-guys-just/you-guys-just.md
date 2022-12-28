@@ -2,7 +2,7 @@
 
 ---
 
-[*A picture of a whiteboard, onto which a presentation slide with a white background is being projected. A person sits on a chair next to the whiteboard. The slide has an upper section and a title at the bottom. The image has been modified so that the slide reads as follows:*]
+\[*A picture of a whiteboard, onto which a presentation slide with a white background is being projected. A person sits on a chair next to the whiteboard. The slide has an upper section and a title at the bottom. The image has been modified so that the slide reads as follows:*]
 
 **Upper Section:** {{REPLACE ME}}
 

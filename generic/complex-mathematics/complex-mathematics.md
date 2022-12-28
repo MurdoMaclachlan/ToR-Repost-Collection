@@ -1,8 +1,8 @@
-*Image Transcription:*
+*Image Transcription: Meme*
 
 ---
 
-[*A four panel comic of a light skinned feminine person with blond hair looking to the left of the camera and doing complex mathematics in their head. Algorithms are overlaid in each panel in white text.*]
+\[*Four panels showing a light skinned feminine person with blond hair looking to the left of the camera with a concentrated expression. On the second, third and fourth panels, various mathematical equations and diagrams are overlayed in white text.*]
 
 ---
 

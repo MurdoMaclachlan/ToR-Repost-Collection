@@ -2,7 +2,7 @@
 
 ---
 
-[*A light skinned, anime stylised, feminine person (Tohru from Miss Kobayashi's Dragon Maid.) with yellow hair and green hair. Their red eyes are closing from joy, and they are flushed. Their mouth is in a "3" shape, starting down, going up, and then back down.  They are wearing a black top with a red tiw and white collars and shoulders. The roof is blue with white lights.*]
+\[*A light skinned, anime stylised, feminine person (Tohru from Miss Kobayashi's Dragon Maid.) with yellow hair and green hair. Their red eyes are closing from joy, and they are flushed. Their mouth is in a "3" shape, starting down, going up, and then back down.  They are wearing a black top with a red tiw and white collars and shoulders. The roof is blue with white lights.*]
 
 ---
 

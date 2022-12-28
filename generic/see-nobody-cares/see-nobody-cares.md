@@ -2,17 +2,17 @@
 
 ---
 
-[*The meme shows two stills from Jurassic Park, with characters Lew Dodgson and Dennis Nedry sitting together. Both are captioned, the text indicating Nedry's dialogue.*]
+\[*The meme shows two stills from Jurassic Park, with characters Lew Dodgson and Dennis Nedry sitting together. Both are captioned, the text indicating Nedry's dialogue.*]
 
 ---
 
-[*In the first still, Nedry, who wears a colourful shirt, is looking around and pointing to Dodgson, who wears sunglasses and a hat and looks thoroughly displeased. The caption reads:*]
+\[*In the first still, Nedry, who wears a colourful shirt, is looking around and pointing to Dodgson, who wears sunglasses and a hat and looks thoroughly displeased. The caption reads:*]
 
 {{REPLACE ME}}
 
 ---
 
-[*In the second still, Nedry looks at Dodgson with the smugness of a bragger who has been proven right. The caption reads:*]
+\[*In the second still, Nedry looks at Dodgson with the smugness of a bragger who has been proven right. The caption reads:*]
 
 See? nobody cares
 

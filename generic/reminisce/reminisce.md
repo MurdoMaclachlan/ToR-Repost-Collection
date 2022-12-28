@@ -4,7 +4,7 @@
 
 **Panel 1**
 
-[*A post-apocolyptic styled scene. Two men sit on the ground, their legs crossed. Behind them is a derelict shopfront, the glass of the store window shattered on the ground in front of it. A red drape or fabric of some kind hangs in the window. One of the supporting beams is cracked about a third of the way up. On the floor next to the men is rubbish and rubble; a document with a skull on it lays in the corner of the image. The man on the left is dressed in what looks like a yellow fallout hood and a grey gas mask, with a green filter. He wears rubbery grey trousers. The man to the right wears a camoflague top, and rubberized dungarees with (presumably) his name, John, printed on them. He looks down, writing on a piece of paper*]
+\[*A post-apocolyptic styled scene. Two men sit on the ground, their legs crossed. Behind them is a derelict shopfront, the glass of the store window shattered on the ground in front of it. A red drape or fabric of some kind hangs in the window. One of the supporting beams is cracked about a third of the way up. On the floor next to the men is rubbish and rubble; a document with a skull on it lays in the corner of the image. The man on the left is dressed in what looks like a yellow fallout hood and a grey gas mask, with a green filter. He wears rubbery grey trousers. The man to the right wears a camoflague top, and rubberized dungarees with (presumably) his name, John, printed on them. He looks down, writing on a piece of paper*]
 
 **Yellow Hood**: I miss the internet
 
@@ -12,19 +12,19 @@
 
 **Panel 2**
 
-[*The same scene as before, but John has finished drawing on the paper. He holds it up to Yellow Hood, who looks over*]
+\[*The same scene as before, but John has finished drawing on the paper. He holds it up to Yellow Hood, who looks over*]
 
 ---
 
 **Panel 3**
 
-[*{{REPLACE ME}}*]
+\[*{{REPLACE ME}}*]
 
 ---
 
 **Panel 4**
 
-[*A similar scene to __Panel 2__. Yellow Hood has taken the paper from John, and holds it, turning to look to him. John turns and looks to Yellow Hood*]
+\[*A similar scene to __Panel 2__. Yellow Hood has taken the paper from John, and holds it, turning to look to him. John turns and looks to Yellow Hood*]
 
 **Yellow Hood**: Thank you
 

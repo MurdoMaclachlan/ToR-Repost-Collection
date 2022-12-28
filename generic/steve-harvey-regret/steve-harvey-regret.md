@@ -2,7 +2,7 @@
 
 ---
 
-[*Image of Steve Harvey (a dark-skinned masculine person with black eyebrows and moustache, a white shirt, a red tie, and a purple suit) laughing, overlaid by an image of them also being concerned or annoyed at themselves. The background is black.*]
+\[*Image of Steve Harvey (a dark-skinned masculine person with black eyebrows and moustache, a white shirt, a red tie, and a purple suit) laughing, overlaid by an image of them also being concerned or annoyed at themselves. The background is black.*]
 
 ---
 

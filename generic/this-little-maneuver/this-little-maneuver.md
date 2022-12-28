@@ -4,7 +4,7 @@
 
 {{REPLACE ME}}
 
-[*An image of Cooper, from the film "Interstellar", dressed in a spacesuit with a NASA logo on the front and leaning back in the cockpit of a spaceship. The image is captioned:*]
+\[*An image of Cooper, from the film "Interstellar", dressed in a spacesuit with a NASA logo on the front and leaning back in the cockpit of a spaceship. The image is captioned:*]
 
 This little maneuver is gonna cost us 51 {{REPLACE ME}}
 

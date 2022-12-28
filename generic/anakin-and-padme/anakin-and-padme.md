@@ -2,23 +2,23 @@
 
 ---  
 
-[*Anakin Skywalker, from Star Wars Episode II, is sitting in a grassy field. He is squinting off-camera with a serious expression. The caption reads:*]
+\[*Anakin Skywalker, from Star Wars Episode II, is sitting in a grassy field. He is squinting off-camera with a serious expression. The caption reads:*]
 
 {{REPLACE ME}}
 
 ---
 
-[*Padmé Amidala, who is also sitting in the field, is looking at Anakin with a joyous smile, as though she is laughing. The caption reads:*]
+\[*Padmé Amidala, who is also sitting in the field, is looking at Anakin with a joyous smile, as though she is laughing. The caption reads:*]
 
 {{REPLACE ME}}
 
 ---
 
-[*A close-up of Anakin's face. His look is now pointed and somewhat ominous.*]
+\[*A close-up of Anakin's face. His look is now pointed and somewhat ominous.*]
 
 ---
 
-[*Padmé's smile has fallen into a look of concern, and perhaps slight fear. The caption reads:*]
+\[*Padmé's smile has fallen into a look of concern, and perhaps slight fear. The caption reads:*]
 
 {{REPLACE ME}}
 

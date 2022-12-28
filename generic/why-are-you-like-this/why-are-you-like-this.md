@@ -2,7 +2,7 @@
 
 ---
 
-[*Image of a light-skinned masculine person with brown hair and no clothes, except a towel on their left shoulder looking into the mirror, pointing at themselves. They appear somewhat happy. The image appears to be in a bathroom, and there is a brick wall with a white covering at the top half.*]
+\[*Image of a light-skinned masculine person with brown hair and no clothes, except a towel on their left shoulder looking into the mirror, pointing at themselves. They appear somewhat happy. The image appears to be in a bathroom, and there is a brick wall with a white covering at the top half.*]
 
 {{REPLACE ME}}
 

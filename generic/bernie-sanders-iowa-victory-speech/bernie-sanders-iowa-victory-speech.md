@@ -2,29 +2,29 @@
 
 ---
 
-[*A four-panelled meme with text to the left and an image to the right of each panel. In each image, Bernie Sanders stands behind a podium with a microphone in front of him and the flags of Iowa and the United States hanging behind him, and his campaign logo on a wall behind those.*]
+\[*A four-panelled meme with text to the left and an image to the right of each panel. In each image, Bernie Sanders stands behind a podium with a microphone in front of him and the flags of Iowa and the United States hanging behind him, and his campaign logo on a wall behind those.*]
 
 ---
 
-[*In the first panel, he has a rather bored, or perhaps annoyed expression, as he stares blankly into the crowd. The text reads:*]
+\[*In the first panel, he has a rather bored, or perhaps annoyed expression, as he stares blankly into the crowd. The text reads:*]
 
 {{REPLACE ME}}
 
 ---
 
-[*In the second panel, he has spread his arms out and is staring past the microphone with a look of sarcastic disregard. The text reads:*]
+\[*In the second panel, he has spread his arms out and is staring past the microphone with a look of sarcastic disregard. The text reads:*]
 
 {{REPLACE ME}}
 
 ---
 
-[*In the third panel, he continues to stare past the microphone, but his expression is now one of overwhelming excitement.*]
+\[*In the third panel, he continues to stare past the microphone, but his expression is now one of overwhelming excitement.*]
 
 {{REPLACE ME}}
 
 ---
 
-[*In the fourth panel, the image has been deep fried, and Bernie Sanders appears to be yelling something as a bright red glow emanates from his eyes.*]
+\[*In the fourth panel, the image has been deep fried, and Bernie Sanders appears to be yelling something as a bright red glow emanates from his eyes.*]
 
 {{REPLACE ME}}
 

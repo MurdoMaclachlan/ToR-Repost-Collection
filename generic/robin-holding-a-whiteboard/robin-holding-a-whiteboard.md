@@ -2,7 +2,7 @@
 
 ---
 
-[*An image of the character Robin, from season 3 of Stranger Things, holding up a whiteboard, with a slightly sarcastic smile. The writing on the whiteboard reads:*]
+\[*An image of the character Robin, from season 3 of Stranger Things, holding up a whiteboard, with a slightly sarcastic smile. The writing on the whiteboard reads:*]
 
 {{REPLACE ME}}
 
